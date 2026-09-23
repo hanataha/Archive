@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="color-scheme" content="dark" />
+<title>Eon Saga Fandom Wiki</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <div class="topbar-row">
+      <button type="button" class="back-btn" id="backBtn" aria-label="Back">← Back</button>
+      <div class="brand">
+        <h1>Eon Saga Wiki</h1>
+        <p class="sub">Fandom index · NSFW source-faithful · offline</p>
+      </div>
+    </div>
+    <nav class="seg" id="mainNav" aria-label="Primary">
+      <button type="button" data-tab="sagas" class="active">Sagas</button>
+      <button type="button" data-tab="chars">Chars</button>
+      <button type="button" data-tab="places">Places</button>
+      <button type="button" data-tab="search">Search</button>
+    </nav>
+    <div class="search-wrap" id="searchWrap" hidden>
+      <input type="search" id="q" placeholder="Search sagas, chars, places…" autocomplete="off" />
+    </div>
+  </header>
+  <main id="main" class="main"></main>
+  <footer class="footer"><span id="footerMeta"></span></footer>
+</div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
