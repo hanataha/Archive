@@ -51,6 +51,17 @@
     });
   }
 
+  function thumbImg(c) {
+    var src = c && (c.portraitThumb || c.portrait);
+    return src ? '<img class="card-thumb" src="' + esc(src) + '" alt="' + esc(c.name) + '" loading="lazy" decoding="async">' : "";
+  }
+
+  function portraitHtml(c) {
+    return c && c.portrait
+      ? '<figure class="portrait"><a href="' + esc(c.portrait) + '" target="_blank" rel="noopener"><img src="' + esc(c.portrait) + '" alt="Portrait of ' + esc(c.name) + '" decoding="async"></a></figure>'
+      : "";
+  }
+
   function charCard(id) {
     var c = byChar[id];
     if (!c) return "";
@@ -99,9 +110,11 @@
       '<div class="list-tools"><span class="count">' + list.length + " characters</span></div>" +
       '<div class="card-list">' +
       list.map(function (c) {
-        return '<a class="card" href="#/char/' + encodeURIComponent(c.id) + '"><h3>' + ((c.kind === "group" || (c.variants && c.variants.length)) ? '<span class="chip group-chip">Group</span> ' : '') + esc(c.name) + "</h3>" +
+        var inner = "<h3>" + ((c.kind === "group" || (c.variants && c.variants.length)) ? '<span class="chip group-chip">Group</span> ' : '') + esc(c.name) + "</h3>" +
           '<div class="meta"><span>' + esc(c.role || c.uniqueTitle || c.status || "—") + "</span>" +
-          "<span>" + (c.sagaIds || []).length + " saga(s)</span></div></a>";
+          "<span>" + (c.sagaIds || []).length + " saga(s)</span></div>";
+        if (thumbImg(c)) inner = thumbImg(c) + '<div class="card-body">' + inner + "</div>";
+        return '<a class="card' + (c.portrait ? " has-thumb" : "") + '" href="#/char/' + encodeURIComponent(c.id) + '">' + inner + "</a>";
       }).join("") +
       "</div>";
   }
@@ -144,8 +157,9 @@
       }).join("") || '<p class="muted">None</p>') +
       '</div></div><div class="section"><h2>Characters (' + chars.length + ')</h2><div class="card-list">' +
       (chars.slice(0, 40).map(function (c) {
-        return '<a class="card" href="#/char/' + encodeURIComponent(c.id) + '"><h3>' + esc(c.name) + "</h3>" +
-          '<div class="meta">' + esc(c.role || "") + "</div></a>";
+        var inner = "<h3>" + esc(c.name) + "</h3>" + '<div class="meta">' + esc(c.role || "") + "</div>";
+        if (thumbImg(c)) inner = thumbImg(c) + '<div class="card-body">' + inner + "</div>";
+        return '<a class="card' + (c.portrait ? " has-thumb" : "") + '" href="#/char/' + encodeURIComponent(c.id) + '">' + inner + "</a>";
       }).join("") || '<p class="muted">None</p>') +
       '</div></div><div class="section"><h2>Places (' + places.length + ')</h2><div class="card-list">' +
       (places.slice(0, 40).map(function (p) {
@@ -319,7 +333,7 @@
       '<h1 class="page-title">' + esc(c.name) + "</h1>" +
       '<p class="page-sub">' + esc(c.uniqueTitle || c.role || c.status || "") + "</p>" +
       (isGroup ? '<div class="badges"><span class="chip group-chip">Group entity</span></div>' : "") +
-      '<div class="layout has-infobox"><aside class="infobox"><h2>Infobox</h2><dl>' +
+      '<div class="layout has-infobox"><aside class="infobox">' + portraitHtml(c) + '<h2>Infobox</h2><dl>' +
       "<dt>Name</dt><dd>" + esc(c.name) + "</dd>" +
       "<dt>Aliases</dt><dd>" + esc((c.aliases || []).join(", ") || "—") + "</dd>" +
       "<dt>Kind</dt><dd>" + esc(isGroup ? "group" : "character") + "</dd>" +

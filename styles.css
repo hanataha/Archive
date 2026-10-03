@@ -99,3 +99,12 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;-we
 .variant-card{background:var(--bg-elev);border:1px solid var(--border);border-radius:10px;padding:10px 12px}
 .variant-card h4{margin:0 0 4px;font-size:.95rem;color:var(--accent)}
 .variant-card p{margin:0;font-size:.88rem;color:var(--text-dim);white-space:pre-wrap}
+
+/* Character portraits */
+.portrait{margin:0 0 12px;text-align:center}
+.portrait a{display:block}
+.portrait img{display:block;width:auto;max-width:100%;max-height:70vh;margin:0 auto;border-radius:var(--radius);border:1px solid var(--border);background:var(--bg-elev);object-fit:contain}
+@media(min-width:800px){.portrait img{width:100%;max-height:520px}}
+.card.has-thumb{display:flex;align-items:center;gap:12px}
+.card.has-thumb .card-body{flex:1;min-width:0}
+.card-thumb{flex:0 0 auto;width:56px;height:56px;border-radius:10px;object-fit:cover;object-position:top center;border:1px solid var(--border);background:var(--bg-elev)}
