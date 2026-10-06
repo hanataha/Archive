@@ -3911,12 +3911,17 @@
     "name": "Tokyo Tower",
     "type": "venue",
     "sagaIds": [
-      "saga-33-eon-s-regression-baby-in-1995-tokyo"
+      "saga-33-eon-s-regression-baby-in-1995-tokyo",
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
     ],
     "summary": "Six months brought mobility. Eon rolled over, then crawled, his body catching up to his will. The penthouse became his playground: scooting across polished hardwood floors, exploring under tables, pulling himself up on furniture. Aiko decorated his nursery with murals of Mount Fuji and Tokyo Tower, filling shelves with books and toys from around the world. Hiroshi brought home prototypes from the company—early mobile phones, clunky but revolutionary. Eon stared at them, knowing they'd evolve into the devices that defined his original life. One night, as thunder rumbled over the city, a summer storm knocking out power briefly, Eon cried not from fear but frustration. In the candlelight, his p",
     "details": "Six months brought mobility. Eon rolled over, then crawled, his body catching up to his will. The penthouse became his playground: scooting across polished hardwood floors, exploring under tables, pulling himself up on furniture. Aiko decorated his nursery with murals of Mount Fuji and Tokyo Tower, filling shelves with books and toys from around the world. Hiroshi brought home prototypes from the company—early mobile phones, clunky but revolutionary. Eon stared at them, knowing they'd evolve into the devices that defined his original life. One night, as thunder rumbled over the city, a summer storm knocking out power briefly, Eon cried not from fear but frustration. In the candlelight, his parents held him close, singing until he calmed. \"Family,\" he thought. \"This is what I missed.\"",
-    "relatedCharacterIds": [],
-    "notableFacts": []
+    "relatedCharacterIds": [
+      "char-hamazaki-risa"
+    ],
+    "notableFacts": [
+      "Saga 46: in early December Eon and Risa visit a Christmas illuminations event near Tokyo Tower; Risa, in a stylish coat, wants to take his hand but covers it with teasing (“Just cold. Walk faster.”)."
+    ]
   },
   {
     "id": "place-tokyo-university",
@@ -4740,5 +4745,158 @@
     "details": "Yuki engawa image setting",
     "relatedCharacterIds": [],
     "notableFacts": []
+  },
+  {
+    "id": "place-eon-s-nakano-1k-apartment",
+    "name": "Eon’s Nakano 1K apartment (“the kingdom”)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "Eon’s tiny (~20 m²) fourth-floor 1K apartment in a quiet residential part of Nakano, Tokyo — living room, bedroom, study and dining area in one room. He calls it his personal kingdom and his “cave”: the place he retreats to every evening for anime, gaming and cup ramen, and the space Risa eventually “invades” as a welcome guest.",
+    "details": "Cheap self-assembled IKEA metal shelves groan under boxed anime figures, a manga collection sorted by genre and release year, and half-finished Gunpla. The corner desk holds his pride and joy: a 27-inch curved monitor with a glowing RGB keyboard and mouse; soft blue-and-purple RGB lighting bathes the room at night. Kitchenette = sink, mini-fridge, single induction stove, electric kettle. He sleeps on a futon folded out from the closet under a Totoro nightlight; a small balcony looks toward the glow of Shinjuku. Home uniform: faded black Rem (Re:Zero) hoodie and gray sweatpants. Later the cat-ear headband Risa bought him sits on the desk/shelf as a trophy. In October Risa visits for the first time (sushi, karaage, rearranging figures for better lighting, an isekai binge and co-op gaming); in mid-January they share a winter hotpot-and-anime night under one blanket while snow falls — the scene of her half-confession.",
+    "relatedCharacterIds": [
+      "char-hamazaki-risa"
+    ],
+    "notableFacts": [
+      "Parents live in Fukuoka; Eon lives completely alone.",
+      "Ritual: shoes off, hoodie on, lights dimmed, anime OST on, ramen, then Eternal Realms.",
+      "First visit by Risa: an October evening; second key visit: mid-January winter hotpot marathon.",
+      "Risa’s verdict: “It suits you. Cozy. Safe… a total weeb cave, but a nice one.”"
+    ]
+  },
+  {
+    "id": "place-eon-and-risa-s-university-literature-department",
+    "name": "Eon & Risa’s university (literature department)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "The unnamed Tokyo university where Eon studies in the literature department. Its lecture hall for “Modern Media and Narrative Analysis” is where Risa first spots the Shield Hero clip on his phone; the bench by the small campus garden is where their first 40-minute talk happens and where she takes his LINE ID.",
+    "details": "Eon’s usual seat: third row from the back, by the window. Classes mentioned: a 9:30 seminar on modern Japanese literature, an elective on digital media, and Modern Media and Narrative Analysis (Thursday afternoon). After the first meeting the pair sit together without discussing it, Risa whispering sarcastic commentary during anime clips; later they study together in the library (she makes him explain plot holes) and drink coffee at a café near campus debating rankings. Other students start noticing how often they sit together.",
+    "relatedCharacterIds": [
+      "char-hamazaki-risa",
+      "char-takashi",
+      "char-yumi"
+    ],
+    "notableFacts": [
+      "First contact: Risa leans over mid-lecture and asks “…Is that Shield Hero?”",
+      "Campus garden bench: cherry blossom petals on the ground, first long conversation, LINE QR exchange.",
+      "Risa is described as the sun “half the male population of the literature department” revolves around."
+    ]
+  },
+  {
+    "id": "place-anime-and-game-club-room",
+    "name": "Anime & game club room",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "The university club room where Eon stops by at lunch and where his otaku friends Takashi and Yumi hang out — the hub of his “friends on the periphery”.",
+    "details": "Takashi waves him over to plan watch parties (e.g. the new episode of “Reincarnated as a Vending Machine”, Yumi bringing snacks); Yumi paints chibi nail art at the table and asks him to bring a limited-edition figure for a mini photoshoot. Eon usually deflects invitations to protect his solo evenings; once Risa enters his life he declines with “I’m… talking to someone about anime stuff.”",
+    "relatedCharacterIds": [
+      "char-takashi",
+      "char-yumi"
+    ],
+    "notableFacts": [
+      "Takashi: “You always disappear into your cave after classes anyway. Respect.”"
+    ]
+  },
+  {
+    "id": "place-akihabara-anime-goods-pop-up-store",
+    "name": "Akihabara anime-goods pop-up store & figure shop",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "Site of Eon and Risa’s first real outing (third week after meeting): Risa drags him on a rainy afternoon to a newly opened anime-goods pop-up store in Akihabara because her other friends would only take her to Shibuya.",
+    "details": "The drizzle eases as they wander glowing signs and maid-café streets. In a figure shop Risa loudly debates a new isekai-heroine scale figure while Eon quietly explains PVC versus resin casts (“You actually know your shit”). In the novelty section she makes him try on a cat-ear headband, laughs until heads turn, and buys it for him as a “joke gift”. Afterwards they eat street crepes on a bench near the station while she asks bolder personal questions.",
+    "relatedCharacterIds": [
+      "char-hamazaki-risa"
+    ],
+    "notableFacts": [
+      "Risa offered to pay his train ticket “if you’re broke”.",
+      "The cat-ear headband becomes a recurring keepsake on Eon’s shelf."
+    ]
+  },
+  {
+    "id": "place-shinjuku-late-night-anime-screening-theater",
+    "name": "Shinjuku late-night anime screening theater",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "A small theater in Shinjuku hosting a late-night screening of the director’s cut of “Your Name” plus a new short film; Risa buys two tickets before asking Eon.",
+    "details": "Risa quietly cries during the emotional scenes and punches his shoulder afterwards: “Don’t tell anyone I cried, got it?” They then walk the neon streets and eat late-night ramen at a small shop, where she admits she first expected him to run away and finds him “chill” and refreshing; they talk until nearly the last train.",
+    "relatedCharacterIds": [
+      "char-hamazaki-risa"
+    ],
+    "notableFacts": [
+      "Eon: “Your secret is safe.”",
+      "Eon calls her “Popular. Pretty. Outgoing.” — she answers “Flattery will get you nowhere, otaku-kun. But thanks.”"
+    ]
+  },
+  {
+    "id": "place-risa-s-favorite-karaoke-box",
+    "name": "Risa’s favorite karaoke box",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "Risa’s go-to karaoke box, where one Saturday she takes Eon alone rather than with her loud friends.",
+    "details": "She sings energetic J-pop and anime songs with real skill, then makes Eon sing a Re:Zero opening; he is off-key and shy, and she claps anyway: “You’re terrible but it’s cute. Next time we’re doing a duet.”",
+    "relatedCharacterIds": [
+      "char-hamazaki-risa"
+    ],
+    "notableFacts": [
+      "Promised (not yet shown) duet."
+    ]
+  },
+  {
+    "id": "place-odaiba-anime-convention",
+    "name": "Odaiba anime convention",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "A big two-day anime convention in Odaiba. Risa attends both days and persuades Eon to join on Sunday (meet 10 AM at the station) — bringing her into what he considers sacred otaku territory.",
+    "details": "They tour artist alleys and indie circles (Eon’s favourites) and mainstream merchandise (Risa’s); she buys a plush and a matching keychain for him “so we match”, links arms when crowds get dense, and at a rare light-novel booth notes “You really light up when you’re in your element.” In a raffle line she asks whether her dragging him out bothers him; he admits it did at first but that it is fun now. On the train home she floats visiting his place to see his figures. They return to another convention in November with coordinated matching keychains on their bags.",
+    "relatedCharacterIds": [
+      "char-hamazaki-risa"
+    ],
+    "notableFacts": [
+      "Risa’s outfit: oversized jacket over a crop top, high-waisted shorts, sneakers, loose ponytail with a ribbon.",
+      "Risa: “I like hanging out with you. You’re real. Most people around me are just… surface level.”"
+    ]
+  },
+  {
+    "id": "place-risa-s-university-dormitory",
+    "name": "Risa’s university dormitory",
+    "type": "venue",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "Risa’s noisy dorm, where roommates blast TikTok dances at 2 AM and someone is always dragging her shopping or to a mixer — the reason she finds Eon’s quiet solo life appealing.",
+    "details": "She sends Eon photos of her convention purchases arranged in her room, and it is in her dorm bed that she admits to herself she is falling for him (“Idiot otaku… you’re making me fall harder and you don’t even realize it.”).",
+    "relatedCharacterIds": [
+      "char-hamazaki-risa"
+    ],
+    "notableFacts": [
+      "Contrast to Eon’s silent Nakano apartment."
+    ]
+  },
+  {
+    "id": "place-eternal-realms-mmorpg",
+    "name": "Eternal Realms (MMORPG)",
+    "type": "world",
+    "sagaIds": [
+      "saga-46-eon-tokyo-otaku-s-perfect-solo-life"
+    ],
+    "summary": "The open-world MMORPG with deep lore and an active Japanese server that Eon sinks hundreds of hours into — his nightly second world.",
+    "details": "His character is “VoidWalker_Eon”, a silver-haired dark elf mage with obsessively customised cloak, staff enchantments and idle animations, casting chain lightning and void orbs. He raids with an online guild (e.g. ShadowBlade99) he feels closer to than many classmates; one dungeon boss falls after seventeen attempts thanks to his clutch heal. His wallpaper shows a lone adventurer above a fantasy kingdom at sunset. As Risa enters his life, his guildmates notice him logging off earlier and going “BRB, real life stuff.” He compares the Tokyo Tower illuminations to a fantasy city in the game.",
+    "relatedCharacterIds": [],
+    "notableFacts": [
+      "In-game Eon is confident and flirts with NPC tavern girls; in real life “not so much”."
+    ]
   }
 ]

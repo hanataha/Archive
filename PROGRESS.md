@@ -1,3 +1,13 @@
+# Current totals
+- Sagas: 46 · Characters: 149 · Places: 381 (`data/meta.json`)
+
+## Saga 46 added (2026-10-06)
+- `saga-46-eon-tokyo-otaku-s-perfect-solo-life` — “Eon: Tokyo Otaku’s Perfect Solo Life” (80bebf21, 4 beats, wholesome slice-of-life rom-com, marker `New` = added after the A/B index)
+- Characters (+3): `char-hamazaki-risa` (Gal Classmate / Close Friend), `char-yumi` (Cosplayer Club Friend), `char-takashi` (Loud Club Friend)
+- Places (+9 new, 1 existing linked): Eon’s Nakano 1K apartment, university (literature dept.), anime & game club room, Akihabara pop-up store, Shinjuku screening theater, Risa’s karaoke box, Odaiba anime convention, Risa’s dormitory, Eternal Realms (MMORPG); existing `place-tokyo-tower` linked
+- Added `transcripts/80bebf21.md`, `extracts/80bebf21.{md,json}`, `extracts/_index.json` entry
+- `characters.json` now also carries the `portrait`/`portraitThumb` fields that previously existed only in `data.js`; `data.js` regenerated from `data/*.json` (compact JSON, `ensure_ascii=False`, trailing newline)
+
 # Wiki quality — character category fix
 
 ## Counts

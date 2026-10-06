@@ -543,5 +543,16 @@
     "bytes": 312280,
     "powers": [],
     "dumpNameCount": 22
+  },
+  {
+    "num": 46,
+    "id": "saga-46-eon-tokyo-otaku-s-perfect-solo-life",
+    "hex": "80bebf21",
+    "title": "Eon: Tokyo Otaku’s Perfect Solo Life",
+    "markers": "New",
+    "turns": 8,
+    "bytes": 66527,
+    "powers": [],
+    "dumpNameCount": 0
   }
 ]
