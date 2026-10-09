@@ -1,9 +1,9 @@
 {
   "title": "Eon Saga Fandom Wiki",
-  "sagaCount": 46,
-  "characterCount": 149,
-  "placeCount": 381,
-  "source": "full_chats + chats dumps + library + SAGA index",
+  "sagaCount": 52,
+  "characterCount": 154,
+  "placeCount": 405,
+  "source": "full_chats + chats dumps + library + SAGA index + DeepSeek history (sagas 47+)",
   "adult": true,
   "notes": "Character fields are category-correct (bio/life story, appearance=looks, personality=demeanor, powers/status/ranks/evolution=those only). Grouped meat toilets use kind=group with variants. Never invent."
 }

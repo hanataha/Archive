@@ -4898,5 +4898,343 @@
     "notableFacts": [
       "In-game Eon is confident and flirts with NPC tavern girls; in real life “not so much”."
     ]
+  },
+  {
+    "id": "place-sakurabashi-solutions-office",
+    "name": "Sakurabashi Solutions office (桜橋ソリューションズ)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-47-eon-s-salaryman-days-and-budding-love"
+    ],
+    "summary": "The Tokyo IT company where Eon has worked as a software engineer for three years.",
+    "details": "Open-plan office with a staff cafeteria and lobby. Eon’s desk carries a few small game-character figures. His seniors Satō and Takahashi trust him with a difficult project; the section chief starts giving him interface-design work after the presentation-tool success.",
+    "relatedCharacterIds": [
+      "char-rina"
+    ],
+    "notableFacts": [
+      "Rina works in the sales department on another floor."
+    ]
+  },
+  {
+    "id": "place-eon-s-tokyo-one-room-apartment-sakurabashi",
+    "name": "Eon’s one-room apartment (Sakurabashi era)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-47-eon-s-salaryman-days-and-budding-love"
+    ],
+    "summary": "Eon’s small Tokyo flat, full of anime posters, figures, manga and light novels.",
+    "details": "He lives alone and cooks simple dinners such as curry rice. Evenings follow a ritual: manga, an online game where he plays a strong swordsman, then the anime on TV. After the festival he lines up his new goods and looks through the day’s photos here.",
+    "relatedCharacterIds": [],
+    "notableFacts": []
+  },
+  {
+    "id": "place-akihabara-anime-event-and-themed-cafe",
+    "name": "Akihabara anime event & themed café",
+    "type": "venue",
+    "sagaIds": [
+      "saga-47-eon-s-salaryman-days-and-budding-love"
+    ],
+    "summary": "Saturday anime event in Akihabara and the anime-themed café Eon visits afterwards.",
+    "details": "He buys goods, photographs cosplayers and orders a character latte whose art he is reluctant to ruin. His mother’s “girlfriend?” call comes while he sits in the café.",
+    "relatedCharacterIds": [],
+    "notableFacts": [
+      "Eon feels he is “not alone” among people with the same hobbies."
+    ]
+  },
+  {
+    "id": "place-university-culture-festival-anime-research-club",
+    "name": "University culture festival (anime research club booth)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-47-eon-s-salaryman-days-and-budding-love"
+    ],
+    "summary": "The university festival where Rina’s sister Sakura’s anime research club runs the largest booth.",
+    "details": "Handmade goods and illustrations are on sale; Eon wears his game-logo T-shirt in public for the first time and buys a lot. The four (Eon, Rina, Mayumi, Sakura) part at the station afterwards.",
+    "relatedCharacterIds": [
+      "char-rina",
+      "char-mayumi"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-ppbc-shinjuku-branch",
+    "name": "Pan-Pacific Business Conglomerate (PPBC), Shinjuku branch",
+    "type": "venue",
+    "sagaIds": [
+      "saga-48-eon-s-dual-life-corporate-otaku"
+    ],
+    "summary": "The sprawling corporation where Eon works as a deliberately average employee.",
+    "details": "A company so vast it feels like something from a corporate-war anime. Eon’s desk is anonymous except for a Cactuar stress ball; Section Chief Tanaka speaks pure jargon. Annual “Team-Building Retreat” of trust falls and karaoke, which Eon organises in this saga.",
+    "relatedCharacterIds": [],
+    "notableFacts": []
+  },
+  {
+    "id": "place-otaku-s-sanctuary-jiro-s-shop",
+    "name": "Otaku’s Sanctuary (Jiro’s basement shop)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-48-eon-s-dual-life-corporate-otaku"
+    ],
+    "summary": "An unmarked basement shop in the Shinjuku backstreets selling vintage Gunpla, rare doujinshi and figures.",
+    "details": "Run by the bearded, biker-looking Jiro, who calls Eon “Eon-sama” and holds new manga and card sleeves for him; Eon pre-orders the Fleurdelys Nendoroid here.",
+    "relatedCharacterIds": [
+      "char-fleurdelys"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-eon-s-command-center-apartment",
+    "name": "Eon’s “command center” apartment",
+    "type": "venue",
+    "sagaIds": [
+      "saga-48-eon-s-dual-life-corporate-otaku"
+    ],
+    "summary": "Eon’s small flat: floor-to-ceiling manga shelves, a powerful PC, consoles, a racing wheel and a lit figure case.",
+    "details": "Glow-in-the-dark stars on the ceiling form the “Three Sisters” from Legend of the Galactic Heroes. A Fleurdelys scale figure takes the centre of a planned Florordial-garden diorama shelf.",
+    "relatedCharacterIds": [
+      "char-fleurdelys"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-aethelgard-online",
+    "name": "Aethelgard Online",
+    "type": "world",
+    "sagaIds": [
+      "saga-48-eon-s-dual-life-corporate-otaku"
+    ],
+    "summary": "The MMORPG where Eon is “Lagann”, a top-tier support mage.",
+    "details": "Guild Celestial Howl, led by Kitsune_Queen; raids last six hours and his timing-perfect barriers are famous on the server forums.",
+    "relatedCharacterIds": [],
+    "notableFacts": []
+  },
+  {
+    "id": "place-tokyo-big-sight-wuthering-waves-fan-event",
+    "name": "Tokyo Big Sight — “Echoes of Huanglong” fan event",
+    "type": "venue",
+    "sagaIds": [
+      "saga-48-eon-s-dual-life-corporate-otaku"
+    ],
+    "summary": "The Wuthering Waves fan event Eon frees his weekend for.",
+    "details": "Exclusive merchandise, a voice-actor panel, and the Fleurdelys/Cantarella cosplay pair Eon meets.",
+    "relatedCharacterIds": [
+      "char-fleurdelys"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-ayaka-s-barrier-sanctum-cursed-mainland",
+    "name": "Ayaka’s barrier sanctum (ruined house on the cursed mainland)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-49-eon-transforms-with-ayaka-s-divine-power"
+    ],
+    "summary": "The abandoned house where Eon and Ayaka arrive, rebuilt by Ayaka inside a 50 m barrier dome.",
+    "details": "Outside the dome lies a nightmare landscape of twisted forest and high-level monsters; inside she manifests a manicured garden of glowing flora and a crystal-clear stream.",
+    "relatedCharacterIds": [
+      "char-ayaka-shiroyama"
+    ],
+    "notableFacts": [
+      "The first local threat, a level-3 Corrosive Howler, is purged at its edge."
+    ]
+  },
+  {
+    "id": "place-cursed-mainland-modern-cultivation-world",
+    "name": "Cursed mainland (modern cultivation world)",
+    "type": "world",
+    "sagaIds": [
+      "saga-49-eon-transforms-with-ayaka-s-divine-power"
+    ],
+    "summary": "The monster-ridden wasteland region of an urban-manhua cultivation world measured in levels 0–9.",
+    "details": "Thin, cold air tasting of dust and static; ruins and twisted woods; creatures such as the Corrosive Howler roam its outer reaches.",
+    "relatedCharacterIds": [
+      "char-ayaka-shiroyama"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-shiroyama-estate",
+    "name": "Shiroyama estate",
+    "type": "venue",
+    "sagaIds": [
+      "saga-49-eon-transforms-with-ayaka-s-divine-power",
+      "saga-50-eon-and-ayaka-s-fantasy-world-adventure"
+    ],
+    "summary": "Eon and Ayaka’s home and private sanctum in their original world, from which both isekai sagas begin.",
+    "details": "Hyper-modern and climate-controlled; their bedroom is the last thing they see before each world shift.",
+    "relatedCharacterIds": [
+      "char-ayaka-shiroyama"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-ayaka-s-obsidian-sanctum-forest-cabin",
+    "name": "Obsidian Sanctum (forest log cabin)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-50-eon-and-ayaka-s-fantasy-world-adventure"
+    ],
+    "summary": "A two-storey hunter’s lodge in a forest clearing that Ayaka rewrote into an obsidian-and-gold sanctum.",
+    "details": "Outside: ancient logs, a steep moss-covered shingle roof, a river-stone chimney and a covered porch. Inside: silent, climate-controlled black obsidian veined with softly pulsing gold, and their low platform bed from the Shiroyama estate.",
+    "relatedCharacterIds": [
+      "char-ayaka-shiroyama"
+    ],
+    "notableFacts": [
+      "Perfect camouflage — it looks like a lonely hermit’s retreat."
+    ]
+  },
+  {
+    "id": "place-high-level-primeval-forest-beside-the-capital",
+    "name": "High-level primeval forest",
+    "type": "world",
+    "sagaIds": [
+      "saga-50-eon-and-ayaka-s-fantasy-world-adventure"
+    ],
+    "summary": "One of the highest-level regions of the fantasy world, adjoining the capital of the dominant empire.",
+    "details": "Trees with trunks as wide as houses, dappled golden light, intelligent predators. Eon’s overlay marks predators red and resources gold.",
+    "relatedCharacterIds": [],
+    "notableFacts": []
+  },
+  {
+    "id": "place-empire-capital-plaza-ayaka",
+    "name": "Empire capital plaza",
+    "type": "city",
+    "sagaIds": [
+      "saga-50-eon-and-ayaka-s-fantasy-world-adventure"
+    ],
+    "summary": "The capital of the empire next to the forest, where Ayaka “descends” in a divine dress.",
+    "details": "Commoners, knights and mages fall silent around the couple; Eon edits their memories after Ayaka’s moment of panic, and the survey of the city proceeds in twenty-minute segments.",
+    "relatedCharacterIds": [
+      "char-ayaka-shiroyama"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-neo-arcadia",
+    "name": "Neo-Arcadia",
+    "type": "world",
+    "sagaIds": [
+      "saga-51-li-xue-s-devotion-and-submission-to-master"
+    ],
+    "summary": "A future world rebuilt after an apocalypse into green, neon-lit eco-megacities blending magic and technology.",
+    "details": "Guild towers, floating gardens, blockchain credits tied to soul-bound ledgers, teleport hubs between cities, pocket realms for elite hunters and monster-core cybernetics. Not a dark setting — the apocalypse is long under control.",
+    "relatedCharacterIds": [
+      "char-saori-luminelle"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-azure-spire-penthouse",
+    "name": "Azure Spire penthouse",
+    "type": "venue",
+    "sagaIds": [
+      "saga-51-li-xue-s-devotion-and-submission-to-master"
+    ],
+    "summary": "Eon’s penthouse at the top of the Azure Spire, Neo-Arcadia’s 1,000-metre elite residential tower of black alloy veined with blue energy.",
+    "details": "Biometric locks keyed to Eon, a throne-like sofa, holographic guild alerts; the surrounding district has floating gardens, neon plazas and elite guild offices.",
+    "relatedCharacterIds": [
+      "char-saori-luminelle"
+    ],
+    "notableFacts": [
+      "Eon keeps five Voidseed artifacts here as paperweights."
+    ]
+  },
+  {
+    "id": "place-obsidian-spire-hunters-guild-hq",
+    "name": "Obsidian Spire (Hunter’s Guild HQ)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-51-li-xue-s-devotion-and-submission-to-master"
+    ],
+    "summary": "The guild headquarters: a twisted helix of obsidian shards fused with dwarven steel and elven runes.",
+    "details": "Built from self-repairing stone mined in the Shattered Expanse and defended by floating pulse-cannon turrets; ranks are assigned and marriages registered here.",
+    "relatedCharacterIds": [
+      "char-saori-luminelle"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-neo-arcadia-black-market-hub",
+    "name": "Black Market Hub (below the Spire) & Black Market’s Edge",
+    "type": "venue",
+    "sagaIds": [
+      "saga-51-li-xue-s-devotion-and-submission-to-master"
+    ],
+    "summary": "Where Eon quietly sells catastrophe-grade monster loot.",
+    "details": "An underground hub beneath the Spire, plus a floating bazaar of armoured airships at the edge of the Shattered Expanse trading illegal monster cores and cursed relics.",
+    "relatedCharacterIds": [
+      "char-saori-luminelle"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-shattered-expanse",
+    "name": "The Shattered Expanse",
+    "type": "world",
+    "sagaIds": [
+      "saga-51-li-xue-s-devotion-and-submission-to-master"
+    ],
+    "summary": "A broken continent (formerly the Verdant Basin) left by the Cataclysm.",
+    "details": "Floating debris, acid geysers and titan bones under a permanent twilight scarred by dimensional rifts. Landmarks: the Hollow Maw (SSS-rank monster sinkhole Eon hunts alone), the Screaming Forest, the Godfang Peaks, and the Black Market’s Edge.",
+    "relatedCharacterIds": [
+      "char-saori-luminelle"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-eon-s-hillside-cottage-lumina",
+    "name": "Eon’s hillside cottage (Lumina saga)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-52-devoted-submissive-character-with-extreme-loyalty"
+    ],
+    "summary": "Eon’s secluded home in the forested hills, hidden by formations and illusion barriers, 2–3 km from the village.",
+    "details": "A sturdy stone-and-timber cottage overgrown with ivy; one chair at the table (Eon’s), shelves of books, a reinforced bed. Lumina cut through its barrier to meet him and later carved “Eon-sama’s property” into the doorframe.",
+    "relatedCharacterIds": [
+      "char-lumina-the-radiant-blade"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-eon-s-village-lumina",
+    "name": "Eon’s village",
+    "type": "city",
+    "sagaIds": [
+      "saga-52-devoted-submissive-character-with-extreme-loyalty"
+    ],
+    "summary": "The humble farming village between rolling hills and dense forest where Eon poses as an ordinary hunter.",
+    "details": "Mysteriously untouched by monsters and bandits because Eon protects it in secret; the Imperial Legion camps here before the dragon siege.",
+    "relatedCharacterIds": [
+      "char-lumina-the-radiant-blade"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-dragon-razed-neighbouring-village",
+    "name": "The neighbouring village (razed by Vermithrax)",
+    "type": "city",
+    "sagaIds": [
+      "saga-52-devoted-submissive-character-with-extreme-loyalty"
+    ],
+    "summary": "The next village over, reduced to ruins by the calamity dragon.",
+    "details": "Site of the battle near a shattered fortress where Lumina duels Vermithrax.",
+    "relatedCharacterIds": [
+      "char-lumina-the-radiant-blade"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-imperial-capital-lumina",
+    "name": "Imperial capital (Lumina’s former home)",
+    "type": "city",
+    "sagaIds": [
+      "saga-52-devoted-submissive-character-with-extreme-loyalty"
+    ],
+    "summary": "Seat of the empire that sent Lumina and the Imperial Legion.",
+    "details": "Lumina refuses to return or fetch anything from her residence there, calling all of it worthless next to Eon.",
+    "relatedCharacterIds": [
+      "char-lumina-the-radiant-blade"
+    ],
+    "notableFacts": []
   }
 ]

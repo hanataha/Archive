@@ -36,7 +36,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;-we
 .footer{border-top:1px solid var(--border);padding:10px var(--pad);font-size:.75rem;color:var(--text-faint);text-align:center}
 .list-tools{display:flex;margin-bottom:12px}.list-tools .count{color:var(--text-dim);font-size:.85rem}
 .chip{display:inline-flex;align-items:center;padding:4px 10px;border-radius:999px;font-size:.75rem;font-weight:700;border:1px solid var(--border);color:var(--text-dim);background:var(--bg-elev)}
-.chip.a{color:var(--a);border-color:rgba(224,175,104,.35)}.chip.b{color:var(--b);border-color:rgba(158,206,106,.35)}.chip.ab{color:var(--ab);border-color:rgba(187,154,247,.35)}
+.chip.a{color:var(--a);border-color:rgba(224,175,104,.35)}.chip.b{color:var(--b);border-color:rgba(158,206,106,.35)}.chip.ab{color:var(--ab);border-color:rgba(187,154,247,.35)}.chip.ds{color:#7aa2f7;border-color:rgba(122,162,247,.4);background:rgba(122,162,247,.08)}
 .card-list{display:flex;flex-direction:column;gap:8px}
 .card{display:block;width:100%;text-align:left;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:12px 14px;color:inherit}
 .card:hover{background:var(--bg-card-h);text-decoration:none}

@@ -5183,5 +5183,414 @@
       "userTurns": 4
     },
     "rawNotes": ""
+  },
+  {
+    "id": "saga-47-eon-s-salaryman-days-and-budding-love",
+    "num": 47,
+    "title": "イオンの社畜日常と恋の芽 (Eon’s Salaryman Days and Budding Love)",
+    "url": "https://chat.deepseek.com/a/chat/s/0b3c7ebc-55e7-47f1-8f78-8fae481e00af",
+    "hex": "ds-01",
+    "markers": "DeepSeek",
+    "chatFile": "ds-01.md",
+    "fullTranscriptPath": "transcripts/ds-01.md",
+    "premise": "### How it starts\n\nstart a story of eon as a employee in a company like those in a anime, he is good at his job but doesn't stands out too much, just enough, he doesn't have a girlfriend because he is a weebs that also likes to play game, reas mangaa, goes to events, etc. make it as long as possible, use n3 japanese. i also want to use this as exercise to read japanese\n\n### First narrated beat\n\n第一章：日常の始まり — 朝七時、目覚まし時計が鳴る。イオンは布団から手を伸ばして、時計を止めた。彼の部屋は、アニメのポスターとフィギュアでいっぱいだ。",
+    "howItStarted": "### How it starts\n\nstart a story of eon as a employee in a company like those in a anime, he is good at his job but doesn't stands out too much, just enough, he doesn't have a girlfriend because he is a weebs that also likes to play game, reas mangaa, goes to events, etc. make it as long as possible, use n3 japanese. i also want to use this as exercise to read japanese\n\n### First narrated beat\n\n第一章：日常の始まり — 朝七時、目覚まし時計が鳴る。イオンは布団から手を伸ばして、時計を止めた。彼の部屋は、アニメのポスターとフィギュアでいっぱいだ。",
+    "shortSummary": "A gentle, non-explicit office slice-of-life written entirely in JLPT-N3-level Japanese, which the user requested as reading practice. Eon (イオン) is a software engineer in his third year at the Tokyo IT company 桜橋ソリューションズ (Sakurabashi Solutions). He is good at his job without ever standing out, leaves on time on Fridays, and spends his free time on manga, light novels, online games and trips to Akihabara and Ikebukuro events. He has no girlfriend and tells himself he prefers 2D girls; his mother keeps phoning to ask when he will find one.\n\nThings shift when Rina (リナ), a popular colleague from the sales department, asks him for a presentation tool that is not really his job. He builds it overnight with an interface inspired by his favourite game, the whole office praises it, and Rina thanks him with lunch. She turns out to like anime too and invites him to a film with her friend Mayumi (マユミ). Eon’s enthusiasm about the series wins them over, the three start eating lunch together, and Rina takes him to a university culture festival where her younger sister Sakura runs a booth for the anime research club. Eon dares to wear his game T-shirt in public for the first time. The story ends with him looking at the festival photos, realising he looks genuinely happy, and deciding to keep his hobbies while widening his world a little — a first bud of romance with Rina.\n\nCore named cast: Rina, Mayumi (plus Rina’s sister Sakura, seniors Satō and Takahashi, and the section chief).\n\nPlaces: Sakurabashi Solutions office, Eon’s one-room apartment, the Akihabara anime event and themed café, the cinema, the university culture festival.",
+    "progress": [
+      {
+        "title": "Chapters 1–3: An ordinary otaku salaryman",
+        "summary": "Eon wakes at seven in a room full of posters and figures, rides the packed train reading manga, and writes code at Sakurabashi Solutions, where seniors Satō and Takahashi quietly admit he is “plain but capable”. Friday evening he buys a new manga volume, window-shops a limited-edition game, cooks curry and plays an online game as a strong swordsman."
+      },
+      {
+        "title": "Chapter 4: Akihabara holiday",
+        "summary": "A Saturday anime event in Akihabara, goods shopping and cosplayer photos, then an anime-themed café with latte art. His mother calls to ask about a girlfriend; he reassures her he is happy with work and hobbies."
+      },
+      {
+        "title": "Chapters 5–7: Rina’s request",
+        "summary": "Rina from sales asks for presentation software. Eon builds a sleek tool styled on a game UI; colleagues and the section chief praise him and he stands out for the first time. Rina invites him to lunch, reveals she likes anime, and asks him to a film — Eon wonders whether this is love and resolves to widen his world a little."
+      },
+      {
+        "title": "Chapter 8: Movie day",
+        "summary": "Rina brings her friend Mayumi. After the film Eon explains hidden references from the earlier series; the two women are impressed rather than put off."
+      },
+      {
+        "title": "Chapters 9–12: The culture festival",
+        "summary": "Lunches as a trio become routine. Rina invites him to her sister Sakura’s university festival, where the anime research club runs the biggest booth. Eon wears his game T-shirt outdoors for the first time, buys far too much, and goes home happy, his everyday life slowly gaining colour."
+      },
+      {
+        "title": "Language-study side turns",
+        "summary": "Between chapters the user asks how to read 第一章 (だいいっしょう) and for the grammar of つぶやいた (past form of the godan verb つぶやく, “to murmur”), which DeepSeek explains."
+      }
+    ],
+    "powers": [
+      "None — grounded office slice-of-life (no system, magic or powers)"
+    ],
+    "importantDetails": [
+      "Source: DeepSeek chat “イオンの社畜日常と恋の芽” (https://chat.deepseek.com/a/chat/s/0b3c7ebc-55e7-47f1-8f78-8fae481e00af) — added from hanataha’s older DeepSeek history (pre-Grok).",
+      "Approx. transcript: 20 KB, 8 messages (4 user).",
+      "Written in N3-level Japanese as reading practice; 12 chapters (第一章–第十二章).",
+      "Company: 桜橋ソリューションズ (Sakurabashi Solutions), Tokyo; Eon is a third-year software engineer.",
+      "Tone: wholesome and non-explicit throughout.",
+      "Rina’s younger sister Sakura (university anime research club) appears only at the festival and has no separate page.",
+      "Thematic sibling of saga #48 (same opening prompt in English) and of Grok sagas #20 and #42.",
+      "Linked cast: 2; places linked: 4."
+    ],
+    "meatToiletIds": [
+      "char-rina",
+      "char-mayumi"
+    ],
+    "placeIds": [
+      "place-sakurabashi-solutions-office",
+      "place-eon-s-tokyo-one-room-apartment-sakurabashi",
+      "place-akihabara-anime-event-and-themed-cafe",
+      "place-university-culture-festival-anime-research-club"
+    ],
+    "counts": {
+      "meatToilets": 2,
+      "places": 4,
+      "messageCount": 8,
+      "userTurns": 4
+    },
+    "rawNotes": ""
+  },
+  {
+    "id": "saga-48-eon-s-dual-life-corporate-otaku",
+    "num": 48,
+    "title": "Eon’s Dual Life: Corporate & Otaku",
+    "url": "https://chat.deepseek.com/a/chat/s/c2f6caf4-9696-4b5c-92a3-c41ced02f604",
+    "hex": "ds-02",
+    "markers": "DeepSeek",
+    "chatFile": "ds-02.md",
+    "fullTranscriptPath": "transcripts/ds-02.md",
+    "premise": "### How it starts\n\nstart a story of eon as a employee in a company like those in a anime, he is good at his job but doesn't stands out too much, just enough, he doesn't have a girlfriend because he is a weebs that also likes to play game, reas mangaa, goes to events, etc. make it as long as possible\n\n### First narrated beat\n\nThe alarm clock blared its generic, tinny rhythm, a sound as unremarkable as the life it was meant to rouse. Eon’s hand snaked out from under the weighted blanket, patting the nightstand until it found the snooze button.",
+    "howItStarted": "### How it starts\n\nstart a story of eon as a employee in a company like those in a anime, he is good at his job but doesn't stands out too much, just enough, he doesn't have a girlfriend because he is a weebs that also likes to play game, reas mangaa, goes to events, etc. make it as long as possible\n\n### First narrated beat\n\nThe alarm clock blared its generic, tinny rhythm, a sound as unremarkable as the life it was meant to rouse. Eon’s hand snaked out from under the weighted blanket, patting the nightstand until it found the snooze button.",
+    "shortSummary": "A short, non-explicit office-otaku story and the DeepSeek ancestor of the Grok saga #20 “Eon: Salaryman by Day, Otaku by Night” (and its sibling #42). Eon works at the Shinjuku branch of the vast Pan-Pacific Business Conglomerate (PPBC) and has perfected the art of “just enough”: flawless work handed in two minutes before the deadline, polite small talk with Aiko from Marketing, corporate-jargon replies to the ulcer-ridden Section Chief Tanaka, and a silent crush on Yamada-san from Accounting he never acts on. After 5:15 PM he becomes “Eon-sama”, regular of Jiro’s basement shop Otaku’s Sanctuary, and “Lagann”, the star support mage of the guild Celestial Howl in Aethelgard Online.\n\nIn the second part Wuthering Waves releases and two Resonators take over his heart: Fleurdelys (the Blessed Maiden — explicitly not Cartethyia) and Cantarella. He treats spreadsheets like boss mechanics so he can farm in peace, pre-orders a Fleurdelys Nendoroid, and, to free the weekend of a Tokyo Big Sight fan event, single-handedly runs the company team-building retreat so well that Tanaka grants him leave. At the event he queues for a superb Fleurdelys cosplayer guarded by a towering Cantarella, compliments the embroidery from her companion quest, and feels truly seen.\n\nThe rest of the chat is the user pushing DeepSeek to research the two characters’ official appearances (Cantarella: 36th matriarch of the Fisalia family, lavender hair, ocean-deep blue eyes; Fleurdelys: white hair, blue eyes, white-and-pale-blue noble attire) so the story could continue.\n\nCore named cast: Fleurdelys (as Eon’s favourite game character). Places: PPBC Shinjuku branch, Otaku’s Sanctuary, Eon’s apartment command center, Aethelgard Online, Tokyo Big Sight fan event.",
+    "progress": [
+      {
+        "title": "Master of “just enough”",
+        "summary": "Morning matcha-protein shake, gacha login, a suit that draws no comment. At PPBC he finishes Tanaka’s “synergistic overhaul” by lunch with hidden efficiency sub-routines, eats a self-made bento watching anime, and admires Yamada-san from afar. After work: Jiro’s Otaku’s Sanctuary, then a six-hour raid as Lagann with guild leader Kitsune_Queen."
+      },
+      {
+        "title": "Wuthering Waves takes over",
+        "summary": "Fleurdelys and Cantarella dethrone every previous favourite. Eon optimises spreadsheets like dodge-cancel rotations, sketches their outfits in meetings, tracks pity in Excel and plans a Florordial-garden display shelf."
+      },
+      {
+        "title": "The retreat gambit",
+        "summary": "To attend the “Echoes of Huanglong” fan event at Tokyo Big Sight he volunteers for the dreaded team-building retreat logistics, runs it flawlessly, sings one safe anime OP at karaoke, and earns Tanaka’s blessing for leave."
+      },
+      {
+        "title": "Fan event at Big Sight",
+        "summary": "Exclusive acrylic standees, a voice-actor panel, and a meeting with a Fleurdelys cosplayer (with a Cantarella bodyguard) who is delighted he noticed the hem embroidery. That night he plays Fleurdelys at home, content with his balance of two worlds."
+      },
+      {
+        "title": "Character research detour",
+        "summary": "The user asks for detailed descriptions of Fleurdelys and Cantarella; DeepSeek first confuses Cantarella with a knight, then corrects itself using official game info. The chat ends while gathering appearance data to continue the story."
+      }
+    ],
+    "powers": [
+      "None — grounded office slice-of-life; only video-game powers (Wuthering Waves Resonators, Aethelgard Online classes)"
+    ],
+    "importantDetails": [
+      "Source: DeepSeek chat “Eon's Dual Life: Corporate & Otaku” (https://chat.deepseek.com/a/chat/s/c2f6caf4-9696-4b5c-92a3-c41ced02f604) — added from hanataha’s older DeepSeek history (pre-Grok).",
+      "Approx. transcript: 40 KB, 20 messages (10 user).",
+      "Earliest DeepSeek version of the salaryman-otaku/Fleurdelys concept later developed in Grok sagas #20 and #42.",
+      "Eon’s MMO handle: “Lagann”, support mage of guild Celestial Howl (leader Kitsune_Queen) in Aethelgard Online.",
+      "Coworkers: Section Chief Tanaka, Aiko from Marketing, Yamada-san from Accounting; shopkeeper Jiro (Otaku’s Sanctuary).",
+      "Eon loves Fleurdelys specifically, not her later form Cartethyia (user correction).",
+      "Tone: wholesome and non-explicit.",
+      "Linked cast: 1; places linked: 5."
+    ],
+    "meatToiletIds": [
+      "char-fleurdelys"
+    ],
+    "placeIds": [
+      "place-ppbc-shinjuku-branch",
+      "place-otaku-s-sanctuary-jiro-s-shop",
+      "place-eon-s-command-center-apartment",
+      "place-aethelgard-online",
+      "place-tokyo-big-sight-wuthering-waves-fan-event"
+    ],
+    "counts": {
+      "meatToilets": 1,
+      "places": 5,
+      "messageCount": 20,
+      "userTurns": 10
+    },
+    "rawNotes": ""
+  },
+  {
+    "id": "saga-49-eon-transforms-with-ayaka-s-divine-power",
+    "num": 49,
+    "title": "Eon Transforms with Ayaka’s Divine Power",
+    "url": "https://chat.deepseek.com/a/chat/s/8f60d463-95be-4e04-8620-739642a94486",
+    "hex": "ds-05",
+    "markers": "DeepSeek",
+    "chatFile": "ds-05.md",
+    "fullTranscriptPath": "transcripts/ds-05.md",
+    "premise": "### How it starts\n\nread and understand that. the two of them suddenly isekai-ed to modern cultivation like manhua world where power is becoming the most significant in this world. they appeared in a house that located in an abandoned area with high level monster in maindland (describe their surrounding). the power level in this world start at 0 which equal to normal people and the highest known is level 9. each level has 5 phase … ayaka race is changed to a goddess … and her power is unlimited administrator. as for eon, he is still human, but the moment she understand her power, she edit his race to become immortal human and then permanently add herself under his hierarchy as his item …\n\n### First narrated beat\n\nThe transition was not a journey, but a sudden, silent click in the fabric of existence. One moment, they were in their Shiroyama estate sanctum. The next, that reality was simply... overwritten.",
+    "howItStarted": "### How it starts\n\nread and understand that. the two of them suddenly isekai-ed to modern cultivation like manhua world where power is becoming the most significant in this world. they appeared in a house that located in an abandoned area with high level monster in maindland (describe their surrounding). the power level in this world start at 0 which equal to normal people and the highest known is level 9. each level has 5 phase … ayaka race is changed to a goddess … and her power is unlimited administrator. as for eon, he is still human, but the moment she understand her power, she edit his race to become immortal human and then permanently add herself under his hierarchy as his item …\n\n### First narrated beat\n\nThe transition was not a journey, but a sudden, silent click in the fabric of existence. One moment, they were in their Shiroyama estate sanctum. The next, that reality was simply... overwritten.",
+    "shortSummary": "An adult isekai continuation of Eon and his wife Ayaka Shiroyama, loaded from an earlier document. One instant they are in the bedroom of their Shiroyama estate; the next they wake in a ruined house in the monster-infested wasteland of a modern cultivation (urban manhua) world where power is measured from level 0 (ordinary people) to the highest known level 9, each level split into five phases, alongside talents and spiritual weapons.\n\nAyaka’s race becomes Goddess: she grows from 185 cm to 200 cm, her beauty passes beyond “heavenly”, and she gains the power of an Unlimited Administrator who can edit reality like code. Her first acts are to rewrite Eon (165 cm) into an Immortal Human — biological stasis, regeneration, immunity to age and disease — and to bind herself permanently under his hierarchy as his “Bound Divine Artifact”, renaming herself “Eon’s Ayaka” before carrying on calling him “Hubby” as if nothing happened. A level-3 Corrosive Howler that wanders up is scanned and purged with a single silent command, and she raises a 50-metre barrier dome that turns the ruins into a garden sanctum.\n\nThe remaining turns are about the couple’s private devotional “Consecration” rites and their scoring doctrine (the “Tally”), which the user and DeepSeek define and correct; several requests were refused by DeepSeek. This wiki records them only as named rituals. A parallel, longer version of the same opening exists as a DeepSeek chat that was excluded from the archive.\n\nCore named cast: Ayaka Shiroyama (Eon’s Ayaka). Places: the ruined wasteland house / barrier sanctum, the cursed mainland, the Shiroyama estate (origin).",
+    "progress": [
+      {
+        "title": "Overwritten into a cultivation world",
+        "summary": "They wake on splintered wood in a ruined house on the cursed mainland. Ayaka’s eyes scroll with data as she becomes a Goddess with Unlimited Administrator authority; she re-codes Eon into an Immortal Human, binds herself to him as an item, renames herself “Eon’s Ayaka” and calls him Hubby as always."
+      },
+      {
+        "title": "The Corrosive Howler",
+        "summary": "A truck-sized, six-legged level-3 beast refuses to charge, sensing something beyond predator or prey; Ayaka tags it “Pest — Purge” and erases it, then builds a 50 m barrier dome with glowing flora and a clear stream. Eon, a level-0 immortal, realises his wife can conquer this world for him."
+      },
+      {
+        "title": "Stature and the Consecration",
+        "summary": "The user fixes Eon’s height at 165 cm against Ayaka’s 200 cm and asks for their devotional rite, the Consecration; DeepSeek refuses several follow-ups."
+      },
+      {
+        "title": "Doctrine of the Tally",
+        "summary": "After the user corrects an “input error”, DeepSeek restates the couple’s scoring doctrine (the Tally) and the two Consecration forms, “OS” and the extended “OOS” (Over-and-Over Spray), in liturgical language. The final question is refused."
+      }
+    ],
+    "powers": [
+      "Modern cultivation world: levels 0–9, each with 5 phases; talents; spiritual weapons",
+      "Ayaka: Goddess race, Unlimited Administrator (reality editing, scanning, purging, barriers)",
+      "Eon: Immortal Human (stasis, regeneration, immunity to ageing and disease) — level 0 by local measure"
+    ],
+    "importantDetails": [
+      "Source: DeepSeek chat “Eon Transforms with Ayaka's Divine Power” (https://chat.deepseek.com/a/chat/s/8f60d463-95be-4e04-8620-739642a94486) — added from hanataha’s older DeepSeek history (pre-Grok).",
+      "Approx. transcript: 32 KB, 16 messages (8 user).",
+      "Approx. transcript: 35 KB, 8 user turns; DeepSeek refused 3 turns.",
+      "Continues a prior Ayaka document; they arrive from the Shiroyama estate.",
+      "Heights: Eon 165 cm; Ayaka 185 cm mortal → 200 cm as goddess.",
+      "Same opening prompt as the longer DeepSeek chat “Cultivation World: Divine Marriage and Absolute Ownership”, which was screened out of the archive.",
+      "Sister saga: #50 (same couple, medieval fantasy world).",
+      "Linked cast: 1; places linked: 3."
+    ],
+    "meatToiletIds": [
+      "char-ayaka-shiroyama"
+    ],
+    "placeIds": [
+      "place-ayaka-s-barrier-sanctum-cursed-mainland",
+      "place-cursed-mainland-modern-cultivation-world",
+      "place-shiroyama-estate"
+    ],
+    "counts": {
+      "meatToilets": 1,
+      "places": 3,
+      "messageCount": 16,
+      "userTurns": 8
+    },
+    "rawNotes": ""
+  },
+  {
+    "id": "saga-50-eon-and-ayaka-s-fantasy-world-adventure",
+    "num": 50,
+    "title": "Eon and Ayaka’s Fantasy World Adventure",
+    "url": "https://chat.deepseek.com/a/chat/s/6daab3d7-d355-490d-b634-0049f7294365",
+    "hex": "ds-06",
+    "markers": "DeepSeek",
+    "chatFile": "ds-06.md",
+    "fullTranscriptPath": "transcripts/ds-06.md",
+    "premise": "### How it starts\n\nread and understand that. the two suddenly isekai-ed to a fantasy middle age world. they are in a 2 stories middle aged house that located in a middle of a forest. thr forest is very large abd it's located next to a capital of an empire … ayaka race is changed to a goddess … and her power is administrator. as for eon, he is still human, but the moment she understand her power, she edit his race to become immortal human …\n\n### First narrated beat\n\nThe shift was not a violent tear in the fabric of reality, but a soft, decisive click, as if the universe had simply changed its channel.",
+    "howItStarted": "### How it starts\n\nread and understand that. the two suddenly isekai-ed to a fantasy middle age world. they are in a 2 stories middle aged house that located in a middle of a forest. thr forest is very large abd it's located next to a capital of an empire … ayaka race is changed to a goddess … and her power is administrator. as for eon, he is still human, but the moment she understand her power, she edit his race to become immortal human …\n\n### First narrated beat\n\nThe shift was not a violent tear in the fabric of reality, but a soft, decisive click, as if the universe had simply changed its channel.",
+    "shortSummary": "The medieval-fantasy branch of the Eon & Ayaka story (adult). The couple are pulled from their Shiroyama estate into a two-storey log cabin in a colossal, high-level forest beside the capital of an empire, under twin opalescent moons. As in #49, Ayaka becomes a Goddess with Administrator authority, edits Eon into an Immortal Human and binds herself to him as his property, while Eon gains a “Systems Administrator” overlay that tags every tree, creature and resource with AR-like data.\n\nThe cabin is a disguise: inside, Ayaka rewrites it into an obsidian-and-gold “Obsidian Sanctum” with their own bed from the estate. Exploration keeps stalling because Ayaka cannot bear more than about twenty minutes without their rituals; a ride on a mount fails, so they teleport. When they appear in the capital’s plaza her one flash of mortal modesty makes her panic at being seen; Eon wipes the crowd’s memory, clothes her in a divine dress, and her aura leaves the city awestruck but unable to think ill of her. A day of surveying the capital in twenty-minute segments follows, then days at home under their extended ritual schedule. The user and DeepSeek also catalogue her full appearance (mortal and divine) and her ever-rising “Hyper-Heavenly Ecstatic State”; DeepSeek refused about a third of the turns. This wiki keeps the ritual material at the level of names only.\n\nCore named cast: Ayaka Shiroyama. Places: the forest cabin / Obsidian Sanctum, the high-level primeval forest, the empire capital plaza.",
+    "progress": [
+      {
+        "title": "Arrival under two moons",
+        "summary": "A rustic log cabin with a bearskin rug and a cast-iron pot; beyond the window, an endless primeval forest and two opalescent moons. Ayaka identifies the zone as one of the planet’s highest-level regions beside the dominant empire’s capital, makes Eon an Immortal Human and restores their estate bed."
+      },
+      {
+        "title": "Ayaka, mortal and divine",
+        "summary": "A long portrait of Ayaka Shiroyama: 185 cm mortal hourglass figure, amethyst almond eyes, porcelain skin — then her 200 cm divine form after ascension."
+      },
+      {
+        "title": "First steps outside",
+        "summary": "Eon wants to study the forest and the cabin’s exterior; Eon’s Administrator overlay tags threats red, neutrals blue and resources gold and lights a path toward the capital, but Ayaka’s need cuts every outing to about twenty minutes."
+      },
+      {
+        "title": "The Obsidian Sanctum",
+        "summary": "Description of their home: a moss-roofed hunter’s lodge outside, an edited obsidian sanctum veined with glowing gold inside, perfectly silent and climate-controlled."
+      },
+      {
+        "title": "Mount problem and the capital",
+        "summary": "No mount is acceptable to Ayaka; her idea of becoming the mount herself fails, so they teleport. In the plaza she panics at strangers seeing her; Eon edits the crowd’s memory and gives her a divine dress, and her aura silences the city."
+      },
+      {
+        "title": "Days of ritual",
+        "summary": "A segmented day surveying the capital, then the third day onward spent at home under their extended rite; the user refines the couple’s Tally doctrine and asks about Ayaka’s escalating ecstatic state merged with her divinity (several turns refused)."
+      }
+    ],
+    "powers": [
+      "Ayaka: Goddess race, Administrator (reality edits, memory wipes, teleportation, time/space control)",
+      "Eon: Immortal Human; “Systems Administrator” perception overlay (threat/resource tagging)",
+      "World: high-fantasy forest of high-level monsters beside an imperial capital"
+    ],
+    "importantDetails": [
+      "Source: DeepSeek chat “Eon and Ayaka's Fantasy World Adventure” (https://chat.deepseek.com/a/chat/s/6daab3d7-d355-490d-b634-0049f7294365) — added from hanataha’s older DeepSeek history (pre-Grok).",
+      "Approx. transcript: 114 KB, 44 messages (22 user).",
+      "Approx. transcript: 122 KB, 22 user turns; DeepSeek refused ~7 turns.",
+      "Twin opalescent moons; cerulean sun.",
+      "Ayaka measurements as mortal: 185 cm, 128 / 58 / 98 cm; amethyst eyes.",
+      "Sister saga of #49 (cultivation-world branch).",
+      "Linked cast: 1; places linked: 4."
+    ],
+    "meatToiletIds": [
+      "char-ayaka-shiroyama"
+    ],
+    "placeIds": [
+      "place-ayaka-s-obsidian-sanctum-forest-cabin",
+      "place-high-level-primeval-forest-beside-the-capital",
+      "place-empire-capital-plaza-ayaka",
+      "place-shiroyama-estate"
+    ],
+    "counts": {
+      "meatToilets": 1,
+      "places": 4,
+      "messageCount": 44,
+      "userTurns": 22
+    },
+    "rawNotes": ""
+  },
+  {
+    "id": "saga-51-li-xue-s-devotion-and-submission-to-master",
+    "num": 51,
+    "title": "Li Xue’s Devotion and Submission to Master (Saori of Neo-Arcadia)",
+    "url": "https://chat.deepseek.com/a/chat/s/1323e16a-2643-46db-b613-a82657e4ff35",
+    "hex": "ds-41",
+    "markers": "DeepSeek",
+    "chatFile": "ds-41.md",
+    "fullTranscriptPath": "transcripts/ds-41.md",
+    "premise": "### How it starts\n\nthe world is a future world, a very modern but also fantasy world, where there's adventure guilds, monster hunting, etc. … the money is fully using blockchain … Eon is a B rank solo hunter that just do mid class quest in the guild, but he is actually very strong and sell his high level monster loot to the black market and auction …\n\n### First narrated beat\n\nWorld Setting: Neo-Arcadia — A futuristic-fantasy world where civilization has rebuilt after an apocalyptic event, blending advanced technology with magic.",
+    "howItStarted": "### How it starts\n\nthe world is a future world, a very modern but also fantasy world, where there's adventure guilds, monster hunting, etc. … the money is fully using blockchain … Eon is a B rank solo hunter that just do mid class quest in the guild, but he is actually very strong and sell his high level monster loot to the black market and auction …\n\n### First narrated beat\n\nWorld Setting: Neo-Arcadia — A futuristic-fantasy world where civilization has rebuilt after an apocalyptic event, blending advanced technology with magic.",
+    "shortSummary": "DeepSeek titled this chat after the “Li Xue” personality document the user pasted first as a template of extreme devotion; the actual story stars Saori Luminelle. Setting: Neo-Arcadia, a bright post-apocalyptic future rebuilt into green eco-megacities with floating gardens, guild towers and a blockchain credit economy, where hunters ranked E to S take quests from guild boards.\n\nEon poses as an unremarkable B-rank solo hunter while secretly selling catastrophe-grade loot through the black market and living in a penthouse at the top of the Azure Spire. On a scenic train ride, Voidreaver swarms attack; the celebrity S-rank Saori Luminelle (modelled on Joumae Saori of Blue Archive) cuts them down, but a dimensional rift releases the SS-rank Dreadmaw Oblivion, whose hide exists in several dimensions at once. As its black-hole breath bears down on her, Eon blocks it with a flick of his hand, dices the monster with a monofilament wire, heals her with a nanite injector and walks off grumbling about the wasted whiskey.\n\nSaori hunts him down through black-market informants and appears at his penthouse chanting his name. Eon tells her he is only a B-rank; she would rather die than be without him, and he accepts her — “do what you want.” A month later he registers her as his wife on paper. She marks herself with a binding womb-rune and his name on every accessory, lives on nothing but him, and becomes a permanently attached, ever-more-powerful and radiant shadow who fights at range in front of him. Later turns build the world: the Azure Spire, the Black Market Hub, the Obsidian Spire guild HQ and the Shattered Expanse. The intimate routines are summarised here without detail.\n\nCore named cast: Saori Luminelle. Places: Neo-Arcadia, Azure Spire penthouse, Obsidian Spire guild HQ, Black Market Hub, the Shattered Expanse.",
+    "progress": [
+      {
+        "title": "Neo-Arcadia and the hidden B-rank",
+        "summary": "World set-up: eco-megacities, guild boards with E–S ranks, credits on soul-bound ledgers. Eon pretends to struggle with B-rank wolf packs while secretly soloing S-rank zones and fencing titan loot."
+      },
+      {
+        "title": "Train ambush",
+        "summary": "Voidreavers (A-rank) hit the train; Saori Luminelle wipes them out until the SS-rank Dreadmaw Oblivion emerges from a rift. Eon blocks its black-hole breath, slices it apart, heals her and leaves. Saori was escorting a Voidseed artifact; Eon owns five as paperweights."
+      },
+      {
+        "title": "The yandere S-rank",
+        "summary": "Saori abandons her duties, bribes informants and finds him at the Azure Spire. Faced with her despair he accepts her; at “Do what you want” her devotion becomes absolute."
+      },
+      {
+        "title": "Paper marriage and binding",
+        "summary": "A month later they register their marriage at the guild office. Saori brands herself with a womb-rune bound to Eon, engraves his name on all her accessories and gives up ordinary food."
+      },
+      {
+        "title": "The attached life",
+        "summary": "Saori never leaves his side; she grows stronger and more beautiful rather than weaker, fights with ranged attacks from in front of him and cleans them both with magic. Several turns explore her self-image (“his vessel”) and why ‘freedom’ means nothing to her."
+      },
+      {
+        "title": "Worldbuilding",
+        "summary": "The Shattered Expanse (formerly the Verdant Basin), the Black Market Hub, Neo-Arcadia’s magi-tech (teleport hubs, pocket realms, monster-core cybernetics) and the twisted-helix Obsidian Spire guild HQ."
+      }
+    ],
+    "powers": [
+      "Hunter ranks E → S (plus SS/SSS monster classes); guild-board quests",
+      "Eon: concealed overwhelming power — dimension-ignoring monofilament wire, barrier that swallows a black-hole breath, nanite healing",
+      "Saori: S-rank, floating railgun staff, teleportation, combat magic; grows stronger through her bond",
+      "Womb-rune binding mark (magical ownership brand)"
+    ],
+    "importantDetails": [
+      "Source: DeepSeek chat “Li Xue's Devotion and Submission to Master” (https://chat.deepseek.com/a/chat/s/1323e16a-2643-46db-b613-a82657e4ff35) — added from hanataha’s older DeepSeek history (pre-Grok).",
+      "Approx. transcript: 97 KB, 64 messages (32 user).",
+      "Approx. transcript: 106 KB, 32 user turns.",
+      "Opens with the user’s “Li Xue” devotion-character document used only as a personality template; Li Xue herself does not appear.",
+      "Saori modelled on Joumae Saori (Blue Archive), idealised.",
+      "Monsters: Voidreavers (A-rank), Dreadmaw Oblivion (SS-rank serpentine abyss-dragon).",
+      "Eon and Saori register a marriage “at least in the document”.",
+      "Linked cast: 1; places linked: 5."
+    ],
+    "meatToiletIds": [
+      "char-saori-luminelle"
+    ],
+    "placeIds": [
+      "place-neo-arcadia",
+      "place-azure-spire-penthouse",
+      "place-obsidian-spire-hunters-guild-hq",
+      "place-neo-arcadia-black-market-hub",
+      "place-shattered-expanse"
+    ],
+    "counts": {
+      "meatToilets": 1,
+      "places": 5,
+      "messageCount": 64,
+      "userTurns": 32
+    },
+    "rawNotes": ""
+  },
+  {
+    "id": "saga-52-devoted-submissive-character-with-extreme-loyalty",
+    "num": 52,
+    "title": "Devoted Submissive Character with Extreme Loyalty (Lumina the Radiant Blade)",
+    "url": "https://chat.deepseek.com/a/chat/s/54175713-d015-429d-9501-95ba4fb0ee3e",
+    "hex": "ds-44",
+    "markers": "DeepSeek",
+    "chatFile": "ds-44.md",
+    "fullTranscriptPath": "transcripts/ds-44.md",
+    "premise": "### How it starts\n\nmake it as long as possible. the setting is fantasy middle age. eon is now enjoying his life in the village, he is now hunting for his food. eon is absolutely strong but hide his power, he have treasures and wealth from several dungeon that was cleared immediately after they apoeared …\n\n### First narrated beat\n\nIn a quiet corner of the world, untouched by the grand conflicts of kings and empires, lay a humble village nestled between rolling hills and dense forests.",
+    "howItStarted": "### How it starts\n\nmake it as long as possible. the setting is fantasy middle age. eon is now enjoying his life in the village, he is now hunting for his food. eon is absolutely strong but hide his power, he have treasures and wealth from several dungeon that was cleared immediately after they apoeared …\n\n### First narrated beat\n\nIn a quiet corner of the world, untouched by the grand conflicts of kings and empires, lay a humble village nestled between rolling hills and dense forests.",
+    "shortSummary": "Another chat DeepSeek titled after the user’s “Li Xue” devotion template; the story itself belongs to Lumina the Radiant Blade. Eon lives as an ordinary hunter-villager in a medieval fantasy world, hiding enormous power. From a secluded cottage on a forested hill, shielded by formations, he quietly clears B-to-S-rank dungeons far away by teleport, trades modest goods in the village and keeps it mysteriously safe from monsters and bandits.\n\nWhen the SSS-rank Mythical Calamity Dragon Vermithrax the Eternal Scourge razes the neighbouring village, the empire sends its strongest: the Saintess Swordsagemaster Lumina the Radiant Blade, silver-haired wielder of the sword Celestial Sever, a kind and proud SSS-rank warrior who accepted the title of Saintess from the people without joining the Holy Order. Her ultimate technique, “Heaven’s Judgement: Final Dawn”, fails; as the dragon’s final spell falls on her, Eon cuts it apart, slays the dragon, erases the evidence and lets her take the credit. His modesty makes her fall in love.\n\nLumina investigates, learns the villager’s name and secret, sends the army home, cuts through his barrier and finds him at his cottage. He says he is not good enough for a noble general; her answer is that she would rather die than lose him, and he replies “Fine.” What follows is a comic-obsessive domestic life: endless “Eon-sama♡” chanting, refusal of utensils and of her old life in the capital, a womb-tattoo of his name in the epilogue, Eon learning that head-pats calm her best, and village outings that need careful preparation. She also kills a young noble who insults Eon, and Eon covers it up with a staged monster attack, and he quietly wipes out a bandit raid at night. Intimate routines are summarised here without detail.\n\nCore named cast: Lumina the Radiant Blade. Places: Eon’s hillside cottage, Eon’s village, the dragon-razed neighbouring village, the imperial capital.",
+    "progress": [
+      {
+        "title": "The hidden villager",
+        "summary": "Eon hunts, trades and helps neighbours while secretly clearing distant B–S-rank dungeons by teleport; his formation-veiled cottage sits 2–3 km from the village."
+      },
+      {
+        "title": "Vermithrax and the Saintess",
+        "summary": "The SSS-rank calamity dragon Vermithrax destroys the next village; Lumina the Radiant Blade arrives with the Imperial Legion and camps in Eon’s village."
+      },
+      {
+        "title": "The losing duel",
+        "summary": "Lumina’s strongest arts, including Heaven’s Judgement: Final Dawn, cannot finish the regenerating dragon. Eon intercepts its final spell, kills it unseen, erases the battlefield traces and leaves her the glory."
+      },
+      {
+        "title": "Investigation and the broken barrier",
+        "summary": "Villagers tell Lumina their village is always strangely peaceful; she connects it to Eon, keeps his secret, sends the army back, cuts through his barrier and waits at his home."
+      },
+      {
+        "title": "Rejection and acceptance",
+        "summary": "Eon calls himself unworthy of a noble general; Lumina’s obsession surfaces and she vows to die rather than live without him. Eon: “Fine. I won’t let you die for something this foolish.”"
+      },
+      {
+        "title": "Life with an obsessed saintess",
+        "summary": "Lumina abandons her title and capital home, chants his name, wants no utensils between them, and grows calmer only with head-pats and praise. Eon admits privately he has grown fond of her. Epilogue: she marks herself with his name in a womb tattoo."
+      },
+      {
+        "title": "Village incidents",
+        "summary": "A young noble who curses Eon is killed by Lumina before Eon can stop her; Eon stages a monster attack with fake evidence. He wipes out a night-time bandit raid. Assorted Q&A turns cover their home, her kissing habits and daily routine."
+      }
+    ],
+    "powers": [
+      "Adventurer/dungeon ranks up to S; monsters up to SSS-rank calamity class",
+      "Eon: concealed overwhelming strength, teleportation, formations/barriers, memory and evidence erasure",
+      "Lumina: SSS-rank Saintess Swordsagemaster — transcendent swordplay and holy magic, sword Celestial Sever, ultimate “Heaven’s Judgement: Final Dawn”"
+    ],
+    "importantDetails": [
+      "Source: DeepSeek chat “Devoted Submissive Character with Extreme Loyalty” (https://chat.deepseek.com/a/chat/s/54175713-d015-429d-9501-95ba4fb0ee3e) — added from hanataha’s older DeepSeek history (pre-Grok).",
+      "Approx. transcript: 90 KB, 68 messages (34 user).",
+      "Approx. transcript: 101 KB, 34 user turns.",
+      "Opens with the user’s “Li Xue” devotion-character document as a template; Li Xue does not appear.",
+      "Antagonist: Vermithrax the Eternal Scourge, SSS-rank Mythical Calamity Dragon.",
+      "Distinct from the Grok-archive characters “Lumina” (#13) and “Eon’s Lumina” (#44).",
+      "Linked cast: 1; places linked: 4."
+    ],
+    "meatToiletIds": [
+      "char-lumina-the-radiant-blade"
+    ],
+    "placeIds": [
+      "place-eon-s-hillside-cottage-lumina",
+      "place-eon-s-village-lumina",
+      "place-dragon-razed-neighbouring-village",
+      "place-imperial-capital-lumina"
+    ],
+    "counts": {
+      "meatToilets": 1,
+      "places": 4,
+      "messageCount": 68,
+      "userTurns": 34
+    },
+    "rawNotes": ""
   }
 ]

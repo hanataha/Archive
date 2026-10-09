@@ -1,6 +1,6 @@
 # Archive — Eon / Meat-Toilet Fandom Wiki
 
-Offline-style fandom wiki built from hanataha’s matched Grok saga chats (46 full transcripts).
+Offline-style fandom wiki built from hanataha’s matched Grok saga chats (46 full transcripts) plus 6 older DeepSeek sagas (#47–52, marker `DeepSeek`).
 
 ## Open the wiki
 
@@ -24,7 +24,7 @@ Useful entry points:
 |------|------|
 | `index.html` | Fandom SPA |
 | `data.js` | Saga / character / place data |
-| `transcripts/` | Full scraped chat markdown (46) |
+| `transcripts/` | Full scraped chat markdown (46 Grok + 6 DeepSeek `ds-NN.md`) |
 | `data/` | JSON sources |
 | `app.js` / `styles.css` | UI |
 

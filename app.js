@@ -38,6 +38,7 @@
   }
 
   function markerChip(m) {
+    if (m === "DeepSeek") return '<span class="chip ds">DeepSeek</span>';
     var x = String(m || "").toUpperCase();
     var cls = "a";
     if (x.indexOf("A") >= 0 && x.indexOf("B") >= 0) cls = "ab";
@@ -191,7 +192,7 @@
       '<span class="chip">' + ((s.counts && s.counts.messageCount) || 0) + " msgs</span></div>" +
       '<div class="btn-row">' +
       '<a class="btn primary" href="#/saga/' + esc(s.id) + '/full">Read full saga</a>' +
-      '<a class="btn" href="' + esc(s.url) + '" target="_blank" rel="noopener">Open on grok.com</a></div>' +
+      '<a class="btn" href="' + esc(s.url) + '" target="_blank" rel="noopener">' + (/deepseek\.com/.test(s.url || "") ? "Open on chat.deepseek.com" : "Open on grok.com") + '</a></div>' +
       '<div class="layout has-infobox"><aside class="infobox"><h2>Infobox</h2><dl>' +
       "<dt>Number</dt><dd>#" + s.num + "</dd>" +
       "<dt>Markers</dt><dd>" + esc(s.markers) + "</dd>" +
@@ -232,7 +233,7 @@
         var cls = lvl === 1 ? "md-h1" : lvl === 2 ? "md-h2" : "md-h3";
         var role = "";
         if (/^User$/i.test(h[2])) role = " role-user";
-        if (/^Grok$/i.test(h[2])) role = " role-grok";
+        if (/^(Grok|DeepSeek)$/i.test(h[2])) role = " role-grok";
         out.push('<div class="' + cls + role + '">' + esc(h[2]) + "</div>");
         continue;
       }

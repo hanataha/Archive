@@ -1,5 +1,12 @@
 # Current totals
-- Sagas: 46 · Characters: 149 · Places: 381 (`data/meta.json`)
+- Sagas: 52 · Characters: 154 · Places: 405 (`data/meta.json`)
+
+## DeepSeek sagas 47–52 added (2026-10-09)
+- Source: hanataha’s older DeepSeek history (56 Eon chats screened; 6 included, 50 excluded for minors, family/incest or non-consensual cores). Marker `DeepSeek`, `hex`/file = `ds-NN` (DeepSeek list index).
+- #47 `ds-01` イオンの社畜日常と恋の芽 (N3 Japanese office slice-of-life) · #48 `ds-02` Eon’s Dual Life: Corporate & Otaku (early version of Grok #20/#42) · #49 `ds-05` Eon Transforms with Ayaka’s Divine Power · #50 `ds-06` Eon and Ayaka’s Fantasy World Adventure · #51 `ds-41` Li Xue’s Devotion… (Saori of Neo-Arcadia) · #52 `ds-44` Devoted Submissive Character… (Lumina the Radiant Blade)
+- Characters (+5): `char-rina`, `char-mayumi`, `char-ayaka-shiroyama`, `char-saori-luminelle`, `char-lumina-the-radiant-blade`; extended `char-fleurdelys` (saga 48, game-character cameo only)
+- Places (+24 new; `place-shiroyama-estate` shared by 49/50)
+- Added `transcripts/ds-*.md`, `extracts/ds-*.{md,json}`, `extracts/_index.json` entries; `app.js` shows a DeepSeek chip, “Open on chat.deepseek.com” button and DeepSeek role headings
 
 ## Saga 46 added (2026-10-06)
 - `saga-46-eon-tokyo-otaku-s-perfect-solo-life` — “Eon: Tokyo Otaku’s Perfect Solo Life” (80bebf21, 4 beats, wholesome slice-of-life rom-com, marker `New` = added after the A/B index)

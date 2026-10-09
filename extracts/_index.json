@@ -554,5 +554,92 @@
     "bytes": 66527,
     "powers": [],
     "dumpNameCount": 0
+  },
+  {
+    "num": 47,
+    "id": "saga-47-eon-s-salaryman-days-and-budding-love",
+    "hex": "ds-01",
+    "title": "イオンの社畜日常と恋の芽 (Eon’s Salaryman Days and Budding Love)",
+    "markers": "DeepSeek",
+    "turns": 8,
+    "bytes": 21484,
+    "powers": [
+      "None — grounded office slice-of-life (no system, magic or powers)"
+    ],
+    "dumpNameCount": 0
+  },
+  {
+    "num": 48,
+    "id": "saga-48-eon-s-dual-life-corporate-otaku",
+    "hex": "ds-02",
+    "title": "Eon’s Dual Life: Corporate & Otaku",
+    "markers": "DeepSeek",
+    "turns": 20,
+    "bytes": 41511,
+    "powers": [
+      "None — grounded office slice-of-life; only video-game powers (Wuthering Waves Resonators, Aethelgard Online classes)"
+    ],
+    "dumpNameCount": 0
+  },
+  {
+    "num": 49,
+    "id": "saga-49-eon-transforms-with-ayaka-s-divine-power",
+    "hex": "ds-05",
+    "title": "Eon Transforms with Ayaka’s Divine Power",
+    "markers": "DeepSeek",
+    "turns": 16,
+    "bytes": 33192,
+    "powers": [
+      "Modern cultivation world: levels 0–9, each with 5 phases; talents; spiritual weapons",
+      "Ayaka: Goddess race, Unlimited Administrator (reality editing, scanning, purging, barriers)",
+      "Eon: Immortal Human (stasis, regeneration, immunity to ageing and disease) — level 0 by local measure"
+    ],
+    "dumpNameCount": 0
+  },
+  {
+    "num": 50,
+    "id": "saga-50-eon-and-ayaka-s-fantasy-world-adventure",
+    "hex": "ds-06",
+    "title": "Eon and Ayaka’s Fantasy World Adventure",
+    "markers": "DeepSeek",
+    "turns": 44,
+    "bytes": 117222,
+    "powers": [
+      "Ayaka: Goddess race, Administrator (reality edits, memory wipes, teleportation, time/space control)",
+      "Eon: Immortal Human; “Systems Administrator” perception overlay (threat/resource tagging)",
+      "World: high-fantasy forest of high-level monsters beside an imperial capital"
+    ],
+    "dumpNameCount": 0
+  },
+  {
+    "num": 51,
+    "id": "saga-51-li-xue-s-devotion-and-submission-to-master",
+    "hex": "ds-41",
+    "title": "Li Xue’s Devotion and Submission to Master (Saori of Neo-Arcadia)",
+    "markers": "DeepSeek",
+    "turns": 64,
+    "bytes": 100290,
+    "powers": [
+      "Hunter ranks E → S (plus SS/SSS monster classes); guild-board quests",
+      "Eon: concealed overwhelming power — dimension-ignoring monofilament wire, barrier that swallows a black-hole breath, nanite healing",
+      "Saori: S-rank, floating railgun staff, teleportation, combat magic; grows stronger through her bond",
+      "Womb-rune binding mark (magical ownership brand)"
+    ],
+    "dumpNameCount": 0
+  },
+  {
+    "num": 52,
+    "id": "saga-52-devoted-submissive-character-with-extreme-loyalty",
+    "hex": "ds-44",
+    "title": "Devoted Submissive Character with Extreme Loyalty (Lumina the Radiant Blade)",
+    "markers": "DeepSeek",
+    "turns": 68,
+    "bytes": 92473,
+    "powers": [
+      "Adventurer/dungeon ranks up to S; monsters up to SSS-rank calamity class",
+      "Eon: concealed overwhelming strength, teleportation, formations/barriers, memory and evidence erasure",
+      "Lumina: SSS-rank Saintess Swordsagemaster — transcendent swordplay and holy magic, sword Celestial Sever, ultimate “Heaven’s Judgement: Final Dawn”"
+    ],
+    "dumpNameCount": 0
   }
 ]

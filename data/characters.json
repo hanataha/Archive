@@ -2085,7 +2085,8 @@
       "saga-38-eon-quiet-heir-in-seoul-s-shadows",
       "saga-40-reborn-noble-secret-magical-prodigy",
       "saga-42-eon-s-dual-life-otaku-to-erotic-fantasy",
-      "saga-45-lewd-hentai-descriptions-yuki-yukino-asuka-lyney"
+      "saga-45-lewd-hentai-descriptions-yuki-yukino-asuka-lyney",
+      "saga-48-eon-s-dual-life-corporate-otaku"
     ],
     "primarySagaId": "saga-20-eon-salaryman-by-day-otaku-by-night",
     "role": "Fleur de Lys / Meat-Mother / Blessed Maiden Made Real",
@@ -2142,7 +2143,8 @@
       "sagaWorld": "Salaryman Otaku / Fleurdelys Heaven",
       "sexualRole": "Eternal primary sheath. Pussy is the sleep-lock — cock stays buried through blackout and “night.” All holes + tits, armpits, thighs, hair, feet, stomach used. Ahegao (Fukuyama Naoto / Takeda Hiromitsu / Nasipasuta mix). Squirt geysers. Blackout-revival loops. Bridges daughter turns with matching endurance",
       "fertility": "First pregnancy → daughter Liora (labor mid-fuck, born in climax, Dec 2026 era). Second pregnancy with cock never leaving pussy → daughter Elara. Then Eon switched fertility OFF. She climaxed from being set barren meat. No further heirs",
-      "origin": "5-star Electro Resonator, Wuthering Waves v2.5 “Echoes of Eternity.” Fabricated Maiden / Blessed Maiden of Solaris-3. Crossed the Lament glitch after Eon answered in-game “Do you love me / will you marry me” with sincerity. Cartethyia did not come through — Fleurdelys cannot shrink via companion kit"
+      "origin": "5-star Electro Resonator, Wuthering Waves v2.5 “Echoes of Eternity.” Fabricated Maiden / Blessed Maiden of Solaris-3. Crossed the Lament glitch after Eon answered in-game “Do you love me / will you marry me” with sincerity. Cartethyia did not come through — Fleurdelys cannot shrink via companion kit",
+      "DeepSeek saga #48": "Appears only as Eon’s favourite Wuthering Waves Resonator (the Blessed Maiden; he loves Fleurdelys, not Cartethyia) in the earliest DeepSeek version of the salaryman-otaku concept; Eon pre-orders her Nendoroid and meets her cosplayer at Tokyo Big Sight."
     },
     "sourceExcerpts": [
       "Template MT_Aetherdrake_Valtor_Template.md",
@@ -6679,6 +6681,279 @@
     "sourceExcerpts": [
       "“Eon! You free this Friday? We’re planning a watch party for the new episode of Reincarnated as a Vending Machine. Yumi’s bringing snacks!”",
       "“Dude, you and Hamazaki? Seriously? She’s like… campus level.”"
+    ]
+  },
+  {
+    "id": "char-rina",
+    "name": "Rina",
+    "aliases": [
+      "リナ",
+      "Rina-san"
+    ],
+    "sagaIds": [
+      "saga-47-eon-s-salaryman-days-and-budding-love"
+    ],
+    "primarySagaId": "saga-47-eon-s-salaryman-days-and-budding-love",
+    "role": "Sales-Department Colleague / Budding Romance",
+    "uniqueTitle": "The Colleague Who Noticed",
+    "relationshipToEon": "Coworker at Sakurabashi Solutions; first person to draw Eon out of his shell; the beginning of a romance (unconfessed)",
+    "biography": "Rina is a popular employee in the sales department of Sakurabashi Solutions. She first teases Eon kindly about the little game figures on his desk, then asks him — even though it is not his job — to build a presentation tool for the sales team. Eon stays late and delivers software styled on his favourite game’s interface; Rina is delighted, the office praises him and the section chief starts giving him design work.\n\nA week later she invites him to lunch as thanks and reveals she watches anime too. She asks him along to an anime film with her friend Mayumi, where his detailed commentary impresses both of them, and from then on the three often lunch together. Rina next brings Eon to the culture festival of the university where her younger sister Sakura is in the anime research club. She laughs warmly at how much he buys (“That’s so you”), and by the end of the story Eon realises he has started to fall for her.",
+    "appearance": "No detailed physical description is given beyond being a cheerful, popular young office worker in business attire.",
+    "personality": "Bright, sociable and friendly; direct about asking for help but quick to show gratitude; secretly an anime fan who enjoys Eon’s knowledge instead of mocking it.",
+    "powers": "None — grounded slice-of-life. Social strengths: popularity in the office, initiative (she makes every invitation), and an open mind about otaku hobbies.",
+    "status": "Eon’s friend and lunch companion; romance budding but unspoken at the end of the saga",
+    "ranks": "Sales-department employee",
+    "evolution": [
+      {
+        "title": "Colleague",
+        "summary": "Teases him gently about his desk figures."
+      },
+      {
+        "title": "The request",
+        "summary": "Asks for a presentation tool; his work makes him stand out."
+      },
+      {
+        "title": "Lunch & film",
+        "summary": "Thanks him with lunch, reveals her anime interest, invites him to a film with Mayumi."
+      },
+      {
+        "title": "Festival",
+        "summary": "Takes him to her sister Sakura’s university culture festival; the story ends with Eon’s feelings beginning to grow."
+      }
+    ],
+    "placesRelated": [
+      "place-sakurabashi-solutions-office",
+      "place-university-culture-festival-anime-research-club"
+    ],
+    "details": {
+      "workplace": "Sakurabashi Solutions — sales department",
+      "family": "younger sister Sakura (university anime research club)",
+      "language": "story written in N3-level Japanese"
+    },
+    "sourceExcerpts": [
+      "イオンさん、いつもそれ、かわいいですね。",
+      "わあ！すごい！思っていたよりずっと素敵！",
+      "いいんですよ。イオンさんらしくて。"
+    ]
+  },
+  {
+    "id": "char-mayumi",
+    "name": "Mayumi",
+    "aliases": [
+      "マユミ",
+      "Mayumi-san"
+    ],
+    "sagaIds": [
+      "saga-47-eon-s-salaryman-days-and-budding-love"
+    ],
+    "primarySagaId": "saga-47-eon-s-salaryman-days-and-budding-love",
+    "role": "Rina’s Friend",
+    "uniqueTitle": "Third of the Lunch Trio",
+    "relationshipToEon": "Rina’s friend who joins Eon and Rina for films, lunches and the festival",
+    "biography": "Mayumi is Rina’s friend, introduced when Rina brings her to the anime film she invited Eon to. She greets him warmly, saying Rina told her he knows a lot about anime, and after the film she and Rina are both amazed by his commentary (“Like a teacher!”). She later joins their lunches now and then and comes along to the university culture festival, where she is surprised at how many goods Eon buys.",
+    "appearance": "Not described in detail.",
+    "personality": "Friendly, easy-going and curious; quick with honest compliments.",
+    "powers": "None — grounded slice-of-life.",
+    "status": "Friend of Rina and Eon",
+    "ranks": "",
+    "evolution": [
+      {
+        "title": "Film day",
+        "summary": "Meets Eon at the cinema with Rina."
+      },
+      {
+        "title": "Lunch trio",
+        "summary": "Occasionally joins Eon and Rina at lunch."
+      },
+      {
+        "title": "Festival",
+        "summary": "Attends Sakura’s university festival with them."
+      }
+    ],
+    "placesRelated": [
+      "place-university-culture-festival-anime-research-club"
+    ],
+    "details": {
+      "introducedIn": "第八章：映画の日 (Chapter 8)"
+    },
+    "sourceExcerpts": [
+      "こんにちは、イオンさん。リナから聞いていますよ。アニメに詳しいんですってね。"
+    ]
+  },
+  {
+    "id": "char-ayaka-shiroyama",
+    "name": "Ayaka Shiroyama",
+    "aliases": [
+      "Eon’s Ayaka",
+      "Ayaka",
+      "Bound Divine Artifact"
+    ],
+    "sagaIds": [
+      "saga-49-eon-transforms-with-ayaka-s-divine-power",
+      "saga-50-eon-and-ayaka-s-fantasy-world-adventure"
+    ],
+    "primarySagaId": "saga-49-eon-transforms-with-ayaka-s-divine-power",
+    "role": "Wife / Goddess Administrator",
+    "uniqueTitle": "Eon’s Ayaka — Unlimited Administrator",
+    "relationshipToEon": "Eon’s devoted wife who calls him “Hubby” and, after becoming a goddess, binds herself under his hierarchy as his item",
+    "biography": "Ayaka Shiroyama is Eon’s wife from a story the user kept in a separate document; the two DeepSeek sagas here continue it from the couple’s Shiroyama estate. In both, a sudden “click” in reality transports them to another world and rewrites Ayaka’s race into a Goddess with Administrator power. Her first acts never change: she edits Eon into an Immortal Human, permanently places herself beneath him as his property, and goes back to calling him Hubby as though nothing had happened.\n\nIn the modern cultivation world (#49) she renames herself “Eon’s Ayaka”, deletes a level-3 Corrosive Howler with a silent command and builds a barrier-dome garden around their ruined house. In the medieval world (#50) she restores their estate bed inside a log cabin, rewrites it into the Obsidian Sanctum, tries and fails to find an acceptable mount, and descends on the empire’s capital, where a flash of her old mortal modesty makes her panic until Eon wipes the crowd’s memory and clothes her in a divine dress. Her whole existence revolves around Eon and the couple’s private rites (the Consecration and its Tally), which the user documents at length.",
+    "appearance": "Mortal: 185 cm, a hyper-idealised hourglass figure (128 / 58 / 98 cm), long legs, porcelain-pale luminous skin, a long oval face with high cheekbones, almond-shaped amethyst eyes with sooty lashes and rose-pink lips. As a goddess she grows to 200 cm, towering over 165 cm Eon, with beauty described as beyond heavenly; in #49 her figure is further exaggerated and adjustable at will. Her pupils shift between a plus-shaped and a heart-shaped mark, and she carries a golden ownership brand.",
+    "personality": "Serene, elegant and frighteningly competent, yet entirely devoted; brushes off reality-breaking acts as trivial; playful “Hubby” affection in speech; one lingering trace of mortal modesty that panics at being seen by strangers.",
+    "powers": "Goddess race. Unlimited Administrator (#49) / Administrator (#50): edits reality like code — scanning and tagging targets, instant ‘purge’ of monsters, race-editing (made Eon an Immortal Human with stasis, regeneration and immunity to age and disease), barrier domes, teleportation, memory editing of crowds, time-stop and space-pause, manifesting clothes and furniture. Self-bound as Eon’s “Bound Divine Artifact”.",
+    "status": "Eon’s wife and bound goddess; active in both isekai branches",
+    "ranks": "Goddess; Unlimited Administrator — far beyond the level 0–9 scale of the cultivation world",
+    "evolution": [
+      {
+        "title": "Mortal wife",
+        "summary": "Ayaka Shiroyama of the Shiroyama estate, 185 cm."
+      },
+      {
+        "title": "Goddess ascension",
+        "summary": "Race rewritten to Goddess, 200 cm, Administrator authority."
+      },
+      {
+        "title": "Self-binding",
+        "summary": "Edits Eon to Immortal Human and binds herself under him as his item; renames herself “Eon’s Ayaka”."
+      }
+    ],
+    "placesRelated": [
+      "place-shiroyama-estate",
+      "place-ayaka-s-barrier-sanctum-cursed-mainland",
+      "place-cursed-mainland-modern-cultivation-world",
+      "place-ayaka-s-obsidian-sanctum-forest-cabin",
+      "place-empire-capital-plaza-ayaka"
+    ],
+    "details": {
+      "heightMortal": "185 cm",
+      "heightGoddess": "200 cm",
+      "eyes": "amethyst, almond-shaped",
+      "eonHeight": "165 cm",
+      "nickname for Eon": "Hubby",
+      "source": "DeepSeek chats (continuing a user document)"
+    },
+    "sourceExcerpts": [
+      "Scan. Target: Local Fauna. Designation: Pest. Threat Level: Insignificant. Authorization: Purge.",
+      "Hubby… they… they see…"
+    ]
+  },
+  {
+    "id": "char-saori-luminelle",
+    "name": "Saori Luminelle",
+    "aliases": [
+      "Saori",
+      "the S-rank ace"
+    ],
+    "sagaIds": [
+      "saga-51-li-xue-s-devotion-and-submission-to-master"
+    ],
+    "primarySagaId": "saga-51-li-xue-s-devotion-and-submission-to-master",
+    "role": "S-Rank Hunter / Paper Wife",
+    "uniqueTitle": "Neo-Arcadia’s Fallen Ace",
+    "relationshipToEon": "Rescued by Eon on a train; obsessively devoted to him; registered as his wife",
+    "biography": "Saori Luminelle is a celebrity S-rank hunter of Neo-Arcadia, proud and untouchable, modelled by the user on Joumae Saori from Blue Archive. While escorting a Voidseed artifact by train she annihilates a Voidreaver swarm, but the SS-rank Dreadmaw Oblivion that crawls from a dimensional rift shrugs off her railgun beams and nearly kills her. A bored B-rank passenger — Eon — blocks its black-hole breath barehanded, slices it into cubes with a monofilament wire, heals her with a nanite injector and leaves.\n\nSaori abandons her duties to find him, bribing black-market informants until she reaches his Azure Spire penthouse. He points out that he is only a B-rank; she declares she would rather die than live without him, and he accepts her with a shrug: “Do what you want.” A month later Eon registers her as his wife on paper. She brands herself with a binding womb-rune, puts his name on every accessory, gives up ordinary food, and stays attached to him day and night. Instead of weakening she becomes stronger and more radiant, fighting with ranged attacks from in front of him.",
+    "appearance": "Idealised version of Joumae Saori: voluptuous and tall, flawless porcelain skin with a soft glow, gemstone eyes whose pupils turn heart-shaped when she looks at Eon; originally in a skintight combat leotard with a floating railgun staff; later a glowing gold womb-rune and accessories engraved with Eon’s name.",
+    "personality": "Once a proud, untouchable ace; after the rescue an extreme yandere — worshipful, clingy, jealous of any other woman, with comic overreactions (short-circuiting at praise). Considers devotion to Eon true freedom.",
+    "powers": "S-rank hunter: floating railgun staff, high-speed combat and teleportation, combat magic, cleansing magic. Becomes stronger and more beautiful through her bond with Eon. Binding womb-rune tying her to him.",
+    "status": "Eon’s registered (paper) wife; permanently at his side",
+    "ranks": "S-rank hunter (guild declared her ‘KIA — Killed In Adoration’ as a joke)",
+    "evolution": [
+      {
+        "title": "S-rank celebrity",
+        "summary": "Untouchable ace escorting a Voidseed."
+      },
+      {
+        "title": "Rescued",
+        "summary": "Saved from the Dreadmaw Oblivion by a ‘B-rank nobody’."
+      },
+      {
+        "title": "Accepted",
+        "summary": "Finds him and is accepted (“Do what you want”)."
+      },
+      {
+        "title": "Paper wife",
+        "summary": "Marriage registered a month later; womb-rune binding."
+      },
+      {
+        "title": "Final form",
+        "summary": "Radiant, stronger, inseparable from Eon."
+      }
+    ],
+    "placesRelated": [
+      "place-neo-arcadia",
+      "place-azure-spire-penthouse",
+      "place-obsidian-spire-hunters-guild-hq",
+      "place-neo-arcadia-black-market-hub",
+      "place-shattered-expanse"
+    ],
+    "details": {
+      "model": "Joumae Saori (Blue Archive), idealised",
+      "weapon": "floating railgun staff",
+      "callsEon": "Eon-sama / Master",
+      "diet": "nothing but Eon"
+    },
+    "sourceExcerpts": [
+      "Eon-sama, Eon-sama, Eon-sama ♡♡♡",
+      "Before Master, I was lost. Now, I am his — and that is liberation."
+    ]
+  },
+  {
+    "id": "char-lumina-the-radiant-blade",
+    "name": "Lumina the Radiant Blade",
+    "aliases": [
+      "Lumina",
+      "Saintess Swordsagemaster",
+      "Eon-sama’s Lumina"
+    ],
+    "sagaIds": [
+      "saga-52-devoted-submissive-character-with-extreme-loyalty"
+    ],
+    "primarySagaId": "saga-52-devoted-submissive-character-with-extreme-loyalty",
+    "role": "Saintess Swordsagemaster / Obsessed Companion",
+    "uniqueTitle": "The Empire’s Strongest Blade",
+    "relationshipToEon": "Saved from the calamity dragon by Eon; abandons her title to live with him in his hillside cottage",
+    "biography": "Lumina the Radiant Blade is the strongest warrior of the empire and famous across the world: a transcendent magical swordmaster whom the people named Saintess for her kindness and purity, though she never joined the Holy Order. When the SSS-rank calamity dragon Vermithrax the Eternal Scourge destroys a village, she leads the Imperial Legion against it. Even her ultimate technique, Heaven’s Judgement: Final Dawn, fails, and as the dragon’s final spell descends on her, a villager — Eon — cuts it apart and slays the beast so fast the army sees nothing. He wipes the evidence and lets her take the credit.\n\nHis refusal of glory makes her fall completely in love. She quietly investigates, works out that he secretly protects the village, sends the army home, slices through the barrier around his cottage and waits for him. When he says he is not good enough for a noble general, she vows to die rather than live without him; he accepts her (“Fine”). She discards her title, sword-oath and capital residence, chants “Eon-sama♡” endlessly, and calms only under head-pats and praise. She is ruthless toward anyone who disrespects him — killing a young noble who cursed Eon, after which Eon fakes a monster attack to cover it. In the epilogue she marks herself with a womb tattoo bearing his name.",
+    "appearance": "Tall and flawless, with moonlight-silver hair, piercing azure eyes and a commanding warrior’s figure; at home she prefers to wear only Eon’s shirt. Later her pupils sharpen to pinpricks whenever her possessiveness flares.",
+    "personality": "Originally kind, pure, proud and fearless; after meeting Eon an all-consuming yandere — clingy, worshipful, jealous, dangerous to others but never to him, soothed by gentle treatment and praise.",
+    "powers": "SSS-rank Saintess Swordsagemaster: transcendent swordsmanship able to cleave mountains, magic rivalling the greatest archmages, holy power. Weapon: Celestial Sever. Ultimate technique: Heaven’s Judgement: Final Dawn (a falling blade of holy light). Can cut through Eon’s formation barrier.",
+    "status": "Former Saintess and imperial general; lives with Eon in his hillside cottage",
+    "ranks": "SSS-rank; strongest in the empire",
+    "evolution": [
+      {
+        "title": "Saintess general",
+        "summary": "The empire’s strongest, sent against Vermithrax."
+      },
+      {
+        "title": "Saved",
+        "summary": "Loses the duel; Eon kills the dragon unseen and gives her the credit."
+      },
+      {
+        "title": "Pursuit",
+        "summary": "Investigates, sends the army home, cuts his barrier."
+      },
+      {
+        "title": "Accepted",
+        "summary": "Vows to die without him; Eon says “Fine”."
+      },
+      {
+        "title": "Epilogue",
+        "summary": "Abandons her title; marks herself with his name."
+      }
+    ],
+    "placesRelated": [
+      "place-eon-s-hillside-cottage-lumina",
+      "place-eon-s-village-lumina",
+      "place-dragon-razed-neighbouring-village",
+      "place-imperial-capital-lumina"
+    ],
+    "details": {
+      "weapon": "Celestial Sever",
+      "ultimate": "Heaven’s Judgement: Final Dawn",
+      "enemy": "Vermithrax the Eternal Scourge (SSS-rank calamity dragon)",
+      "distinctFrom": "Lumina (#13), Eon’s Lumina (#44)"
+    },
+    "sourceExcerpts": [
+      "I… will not fall here!",
+      "If you reject me, I will take my own life."
     ]
   }
 ]
