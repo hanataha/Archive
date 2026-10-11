@@ -7004,7 +7004,9 @@
       "signature": "White camellia in her braid; deep green café apron",
       "note": "Original reframe — Eon’s landlady; no family or legal tie"
     },
-    "sourceExcerpts": []
+    "sourceExcerpts": [],
+    "portrait": "images/characters/aoi-sakuraba.jpg",
+    "portraitThumb": "images/characters/aoi-sakuraba-thumb.jpg"
   },
   {
     "id": "char-rin-sakuraba",
@@ -7054,6 +7056,8 @@
       "commute": "7:40 train",
       "note": "Original reframe — her mother’s lodger, no family tie to Eon"
     },
-    "sourceExcerpts": []
+    "sourceExcerpts": [],
+    "portrait": "images/characters/rin-sakuraba.jpg",
+    "portraitThumb": "images/characters/rin-sakuraba-thumb.jpg"
   }
 ]
