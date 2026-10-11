@@ -39,6 +39,7 @@
 
   function markerChip(m) {
     if (m === "DeepSeek") return '<span class="chip ds">DeepSeek</span>';
+    if (m === "Profiles") return '<span class="chip pf">Profiles</span>';
     var x = String(m || "").toUpperCase();
     var cls = "a";
     if (x.indexOf("A") >= 0 && x.indexOf("B") >= 0) cls = "ab";
@@ -180,7 +181,8 @@
       return '<div class="beat"><div class="beat-num">Beat ' + (i + 1) + "</div><h4>" + esc(b.title) +
         "</h4><p>" + esc(b.summary) + "</p></div>";
     }).join("") || '<p class="muted">No beats extracted.</p>';
-    var mts = (s.meatToiletIds || []).map(charCard).join("") ||
+    var po = !!s.profileOnly;
+    var mts = (po ? (s.characterIds || []) : (s.meatToiletIds || [])).map(charCard).join("") ||
       '<p class="muted">No linked meat toilets in cleaned roster (often marker-A / thin dump).</p>';
     var pls = (s.placeIds || []).map(placeCard).join("") ||
       '<p class="muted">No places linked for this saga.</p>';
@@ -190,13 +192,14 @@
       '<span class="chip">' + ((s.counts && s.counts.meatToilets) || 0) + " MT</span>" +
       '<span class="chip">' + ((s.counts && s.counts.places) || 0) + " places</span>" +
       '<span class="chip">' + ((s.counts && s.counts.messageCount) || 0) + " msgs</span></div>" +
+      (po ? '<p class="page-sub">Character profiles only — reimagined setting (no chat transcript).</p>' :
       '<div class="btn-row">' +
       '<a class="btn primary" href="#/saga/' + esc(s.id) + '/full">Read full saga</a>' +
-      '<a class="btn" href="' + esc(s.url) + '" target="_blank" rel="noopener">' + (/deepseek\.com/.test(s.url || "") ? "Open on chat.deepseek.com" : "Open on grok.com") + '</a></div>' +
+      '<a class="btn" href="' + esc(s.url) + '" target="_blank" rel="noopener">' + (/deepseek\.com/.test(s.url || "") ? "Open on chat.deepseek.com" : "Open on grok.com") + '</a></div>') +
       '<div class="layout has-infobox"><aside class="infobox"><h2>Infobox</h2><dl>' +
       "<dt>Number</dt><dd>#" + s.num + "</dd>" +
       "<dt>Markers</dt><dd>" + esc(s.markers) + "</dd>" +
-      '<dt>Chat file</dt><dd class="faint">' + esc(s.chatFile || (s.hex + ".md")) + "</dd>" +
+      '<dt>Chat file</dt><dd class="faint">' + esc(po ? "— (profiles only)" : (s.chatFile || (s.hex + ".md"))) + "</dd>" +
       "<dt>Powers snapshot</dt><dd>" + esc((s.powers || []).slice(0, 6).join("; ") || "—") + "</dd>" +
       "<dt>MT count</dt><dd>" + ((s.counts && s.counts.meatToilets) || 0) + "</dd>" +
       "<dt>Place count</dt><dd>" + ((s.counts && s.counts.places) || 0) + "</dd>" +
@@ -207,10 +210,10 @@
       '<section class="section"><h2>Progress / story arcs</h2>' + beats + "</section>" +
       '<section class="section"><h2>Powers / systems</h2><ul class="bullets">' + powers + "</ul></section>" +
       '<section class="section"><h2>Important details</h2><ul class="bullets">' + details + "</ul></section>" +
-      '<section class="section"><h2>Meat toilets</h2><div class="grid-cards">' + mts + "</div></section>" +
+      '<section class="section"><h2>' + (po ? "Characters" : "Meat toilets") + '</h2><div class="grid-cards">' + mts + "</div></section>" +
       '<section class="section"><h2>Places</h2><div class="grid-cards">' + pls + "</div></section>" +
       (s.rawNotes ? '<section class="section"><h2>Notes</h2><div class="prose">' + paras(s.rawNotes) + "</div></section>" : "") +
-      '<div class="btn-row"><a class="btn primary" href="#/saga/' + esc(s.id) + '/full">Read full saga transcript</a></div>' +
+      (po ? "" : '<div class="btn-row"><a class="btn primary" href="#/saga/' + esc(s.id) + '/full">Read full saga transcript</a></div>') +
       "</div></div>";
   }
 
@@ -252,6 +255,11 @@
   function renderFullSaga(id) {
     var s = bySaga[id];
     if (!s) { main.innerHTML = '<div class="empty">Saga not found.</div>'; return; }
+    if (s.profileOnly) {
+      main.innerHTML = '<h1 class="page-title">' + esc(s.title) + '</h1><div class="empty">Character profiles only — this entry has no transcript.</div>' +
+        '<div class="btn-row"><a class="btn" href="#/saga/' + esc(s.id) + '">← Saga page</a></div>';
+      return;
+    }
     main.innerHTML =
       '<h1 class="page-title">' + esc(s.title) + "</h1>" +
       '<p class="page-sub">Full transcript (offline markdown)</p>' +

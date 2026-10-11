@@ -6955,5 +6955,105 @@
       "I… will not fall here!",
       "If you reject me, I will take my own life."
     ]
+  },
+  {
+    "id": "char-aoi-sakuraba",
+    "name": "Aoi Sakuraba",
+    "aliases": [
+      "Sakuraba Aoi",
+      "Aoi-san"
+    ],
+    "sagaIds": [
+      "saga-53-eon-s-tokyo-lodging-aoi-rin"
+    ],
+    "primarySagaId": "saga-53-eon-s-tokyo-lodging-aoi-rin",
+    "role": "Café Owner / Eon’s Landlady",
+    "uniqueTitle": "The Camellia of the Late-Night Café",
+    "relationshipToEon": "Landlady — rents Eon the spare upstairs room in her Setagaya house; becomes close to him",
+    "biography": "Aoi Sakuraba owns and runs Café Aoi, a small espresso bar on a side street in Tokyo that keeps its lights on a little later than its neighbours. She was widowed three years ago and has kept both the café and the family house going on her own since, with long hours and very little rest. The house in Setagaya, bought for a bigger family than the one that ended up living there, has felt too large and too quiet ever since.\n\nWhen a polite 18-year-old student looking for lodging for his last year of high school comes into the café after closing time, Aoi decides to let him the empty room upstairs. Eon pays his rent, keeps his room spotless and quietly starts making himself useful: fixing the leaky garden hose, cooking breakfast, carrying milk crates at the café and learning the espresso machine faster than any part-timer she has hired. Aoi, who is used to being the one holding everything up, finds herself admiring how kind, hardworking and steady her lodger is. Over the months the house becomes lively again, and the landlady and her lodger become close.",
+    "appearance": "A tall, graceful woman with long black hair, usually worn in a loose side braid over one shoulder with a small white camellia pinned near the end, or pinned up in the early mornings. She has warm golden-brown eyes and a fine-boned face that her daughter inherited. At the café she wears a deep green apron tied in a neat bow at the back; at home she prefers a simple grey house dress with a thin cardigan. She still wears her late husband’s thin gold wedding band.",
+    "personality": "Calm, low-voiced and composed; practical and economical in everything she does. She is quietly generous and acts on instinct once she trusts someone. Behind the composure is a lonely, overworked woman who has carried everything alone for three years, so small kindnesses move her more than she lets on. She has a dry, gentle sense of humour and rarely raises her voice.",
+    "powers": "None — an ordinary person. Skills: expert barista and café manager, a good home cook (her curry is a house favourite), a careful driver, and a natural eye for people.",
+    "status": "Runs Café Aoi; lives in Setagaya with her daughter Rin and her lodger Eon",
+    "ranks": "Owner of Café Aoi",
+    "evolution": [
+      {
+        "title": "Running it alone",
+        "summary": "Three years widowed, keeping the café and a too-quiet house going by herself."
+      },
+      {
+        "title": "The lodger",
+        "summary": "Rents the spare upstairs room to Eon, an 18-year-old student who needs a place for his last school year."
+      },
+      {
+        "title": "An extra pair of hands",
+        "summary": "Watches him fix the house, help at the café and cook breakfast, and starts to admire him."
+      },
+      {
+        "title": "A livelier home",
+        "summary": "The house stops feeling empty; the landlady and her lodger become close."
+      }
+    ],
+    "placesRelated": [
+      "place-cafe-aoi",
+      "place-sakuraba-house-setagaya"
+    ],
+    "details": {
+      "age": "Adult, in her forties (exact age not given; her daughter is 22)",
+      "job": "Owner-barista of Café Aoi",
+      "signature": "White camellia in her braid; deep green café apron",
+      "note": "Original reframe — Eon’s landlady; no family or legal tie"
+    },
+    "sourceExcerpts": []
+  },
+  {
+    "id": "char-rin-sakuraba",
+    "name": "Rin Sakuraba",
+    "aliases": [
+      "Sakuraba Rin",
+      "Rin-san"
+    ],
+    "sagaIds": [
+      "saga-53-eon-s-tokyo-lodging-aoi-rin"
+    ],
+    "primarySagaId": "saga-53-eon-s-tokyo-lodging-aoi-rin",
+    "role": "Designer / Landlady’s Daughter",
+    "uniqueTitle": "The Designer from Minato",
+    "relationshipToEon": "Her mother’s lodger — starts out sceptical of him, then becomes close to him",
+    "biography": "Rin Sakuraba is Aoi’s only daughter, 22 years old and working as a designer at a busy firm in Minato. She takes the 7:40 train every morning, deals with demanding clients all day and comes home late to a house that has been too quiet since her father died three years ago.\n\nWhen her mother suddenly lets the spare room to an 18-year-old high-school student, Rin is openly sceptical and calls the new lodger “weird”. That opinion lasts about one breakfast. Eon has the table set before she comes down, packs her a bento for work and listens properly when she complains about a difficult client, asking one useful question instead of offering empty encouragement. Her teasing never quite stops, but it turns softer, and the sharp, tired designer from Minato starts looking forward to coming home. Over time she and her mother’s lodger become close.",
+    "appearance": "Tall, with the same long black hair as her mother, worn loose past her shoulders or tied up in a ponytail, and the same fine-boned face, though her eyes are a cooler brown and her expression is usually sharper. For work she dresses neatly in a black button-up blouse, a beige pencil skirt and sheer black stockings, often with heels that make her taller still; at home she lives in an oversized black T-shirt.",
+    "personality": "Sharp, dry and a little prickly, with deadpan one-liners that hide how much she cares. She is overworked and tired, but she is fair: once someone proves themselves she admits it, even if she gets embarrassed doing so. She is protective of her mother and quietly lonely herself.",
+    "powers": "None — an ordinary person. Skills: professional graphic/office designer, quick wit, and a good eye for detail and people who are faking it.",
+    "status": "Designer at a firm in Minato; lives at home in Setagaya with her mother Aoi",
+    "ranks": "Young professional (designer)",
+    "evolution": [
+      {
+        "title": "Sceptic",
+        "summary": "Can’t believe her mother let the spare room to a high-school student overnight; calls him weird."
+      },
+      {
+        "title": "Bento",
+        "summary": "Finds breakfast ready and a packed lunch waiting; thanks him, awkwardly."
+      },
+      {
+        "title": "Warming up",
+        "summary": "Drops by the café after work and finds him running the bar; her teasing softens."
+      },
+      {
+        "title": "Close",
+        "summary": "Starts looking forward to coming home; she and Eon become close."
+      }
+    ],
+    "placesRelated": [
+      "place-sakuraba-house-setagaya",
+      "place-cafe-aoi"
+    ],
+    "details": {
+      "age": "22 (working adult)",
+      "job": "Designer at a design firm in Minato",
+      "commute": "7:40 train",
+      "note": "Original reframe — her mother’s lodger, no family tie to Eon"
+    },
+    "sourceExcerpts": []
   }
 ]

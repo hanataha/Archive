@@ -5592,5 +5592,45 @@
       "userTurns": 34
     },
     "rawNotes": ""
+  },
+  {
+    "id": "saga-53-eon-s-tokyo-lodging-aoi-rin",
+    "num": 53,
+    "title": "Eon’s Tokyo Lodging (Aoi & Rin)",
+    "url": "",
+    "hex": "",
+    "markers": "Profiles",
+    "chatFile": "",
+    "fullTranscriptPath": "",
+    "profileOnly": true,
+    "premise": "Character profiles only — reimagined setting. This entry is an original reframe written for the wiki: it keeps only the names, looks, jobs and personalities of two characters and places them in a new, simple setup. It has no chat transcript and no story beats.\n\nEon, an 18-year-old third-year high-school student with no family to fall back on, needs somewhere to live in Tokyo for his final school year. Aoi Sakuraba, a widowed café owner, has a spare room upstairs in her too-quiet house in Setagaya and rents it to him. Her 22-year-old daughter Rin, a designer at a firm in Minato, lives at home too. Eon is a paying lodger and nothing more formal: Aoi is his landlady, Rin is the landlady’s daughter, and over the months the three of them grow close.",
+    "howItStarted": "Character profiles only — reimagined setting. This entry is an original reframe written for the wiki: it keeps only the names, looks, jobs and personalities of two characters and places them in a new, simple setup. It has no chat transcript and no story beats.\n\nEon, an 18-year-old third-year high-school student with no family to fall back on, needs somewhere to live in Tokyo for his final school year. Aoi Sakuraba, a widowed café owner, has a spare room upstairs in her too-quiet house in Setagaya and rents it to him. Her 22-year-old daughter Rin, a designer at a firm in Minato, lives at home too. Eon is a paying lodger and nothing more formal: Aoi is his landlady, Rin is the landlady’s daughter, and over the months the three of them grow close.",
+    "shortSummary": "Character profiles only — reimagined setting. Eon (18, a third-year high-school student) rents the spare upstairs room in widowed café owner Aoi Sakuraba’s house in Setagaya, Tokyo. Aoi is his landlady; her adult daughter Rin, a 22-year-old designer, lives there too. A quiet, everyday Tokyo setup in which a reliable lodger slowly becomes the person both women are glad to come home to.",
+    "progress": [],
+    "powers": [
+      "None — grounded modern Tokyo setting",
+      "Eon: keeps his usual strength sealed and lives as an ordinary student and lodger"
+    ],
+    "importantDetails": [
+      "Original reframe: character profiles only. No transcript is attached and no events from any chat are summarised here.",
+      "Aoi is Eon’s landlady and Rin is her daughter; neither has any family or legal tie to him — he is simply their lodger.",
+      "Ages: Eon 18; Rin 22; Aoi an adult in her forties (exact age not given)."
+    ],
+    "meatToiletIds": [],
+    "characterIds": [
+      "char-aoi-sakuraba",
+      "char-rin-sakuraba"
+    ],
+    "placeIds": [
+      "place-cafe-aoi",
+      "place-sakuraba-house-setagaya"
+    ],
+    "counts": {
+      "meatToilets": 0,
+      "places": 2,
+      "messageCount": 0,
+      "userTurns": 0
+    },
+    "rawNotes": ""
   }
 ]

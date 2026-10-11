@@ -1,5 +1,12 @@
 # Current totals
-- Sagas: 52 · Characters: 154 · Places: 405 (`data/meta.json`)
+- Sagas: 53 · Characters: 156 · Places: 407 (`data/meta.json`)
+
+## Saga 53 added (2026-10-11) — profile-only reframe
+- `saga-53-eon-s-tokyo-lodging-aoi-rin` — “Eon’s Tokyo Lodging (Aoi & Rin)”, marker `Profiles`, `profileOnly: true`: character profiles only, reimagined setting; no transcript, no URL, no beats from any chat.
+- Setting: Eon (18, third-year high schooler) rents the spare upstairs room in Aoi Sakuraba’s Setagaya house. Aoi = landlady; Rin = her daughter. No family or legal tie to Eon. Only names, looks, ages, jobs and personalities were kept.
+- Characters (+2): `char-aoi-sakuraba` (café owner, forties, exact age not given), `char-rin-sakuraba` (22, designer in Minato). Linked via new saga field `characterIds`.
+- Places (+2): `place-cafe-aoi`, `place-sakuraba-house-setagaya`.
+- `app.js`: `profileOnly` sagas show a `Profiles` chip, a “Characters” section (from `characterIds`), and hide the transcript/chat buttons; `/full` shows a no-transcript notice. `styles.css`: `.chip.pf`.
 
 ## DeepSeek sagas 47–52 added (2026-10-09)
 - Source: hanataha’s older DeepSeek history (56 Eon chats screened; 6 included, 50 excluded for minors, family/incest or non-consensual cores). Marker `DeepSeek`, `hex`/file = `ds-NN` (DeepSeek list index).

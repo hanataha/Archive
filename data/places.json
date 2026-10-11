@@ -5236,5 +5236,35 @@
       "char-lumina-the-radiant-blade"
     ],
     "notableFacts": []
+  },
+  {
+    "id": "place-cafe-aoi",
+    "name": "Café Aoi",
+    "type": "venue",
+    "sagaIds": [
+      "saga-53-eon-s-tokyo-lodging-aoi-rin"
+    ],
+    "summary": "Aoi Sakuraba’s small espresso café on a side street two blocks off a main Tokyo avenue, with a simple wood-and-brass sign that just says “Aoi”.",
+    "details": "Polished counters and gleaming espresso machines behind a wide front window; opens at eight on weekdays and often keeps its lights on after the neighbouring shops close. Eon helps out behind the counter and learns the machines quickly.",
+    "relatedCharacterIds": [
+      "char-aoi-sakuraba",
+      "char-rin-sakuraba"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-sakuraba-house-setagaya",
+    "name": "Sakuraba house (Setagaya)",
+    "type": "venue",
+    "sagaIds": [
+      "saga-53-eon-s-tokyo-lodging-aoi-rin"
+    ],
+    "summary": "Aoi and Rin’s modern two-storey house in Setagaya, with a small garden and a quiet wooden gate; Eon rents its spare upstairs room.",
+    "details": "Too big for two people after Aoi was widowed. Eon’s room is upstairs, with a low desk and a window over the garden. The kitchen island is where the three of them eat.",
+    "relatedCharacterIds": [
+      "char-aoi-sakuraba",
+      "char-rin-sakuraba"
+    ],
+    "notableFacts": []
   }
 ]
