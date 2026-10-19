@@ -5266,5 +5266,97 @@
       "char-rin-sakuraba"
     ],
     "notableFacts": []
+  },
+  {
+    "id": "place-azure-dragon-pavilion-mount-cheongryong",
+    "name": "Azure Dragon Pavilion (Baek clan, Mount Cheongryong)",
+    "type": "sect",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "Seat of the Baek clan on Mount Cheongryong, where Eon is born as first son of the main line.",
+    "details": "Mountain compound with inner courtyards, an ancestor hall, an inner garden with a stone bridge, junior and senior practice yards, the junior dormitory, a small brush-and-sword practice room, and bathhouses fed by hot springs. It oversees three branch families, two allied minor clans and outer martial halls, and has rivals in the Black Tiger Sect (west) and the White Phoenix Pavilion (east).",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": [
+      "Eon hides his strength here behind ‘ordinary’ monthly reports.",
+      "Site of the Han visit at age 10."
+    ]
+  },
+  {
+    "id": "place-han-clan-river-holdings",
+    "name": "Han clan river holdings (Cheonggang)",
+    "type": "territory",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "Home of the Han clan along the Cheonggang: ferry crossings, lower granaries, river mist.",
+    "details": "A three-day ride east of Mount Cheongryong. It has an outer gate at the first managed ferry crossing, a lower practice yard, a guest wing and an upper ferry path. The wedding is held in the main hall of the Han main compound.",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": [
+      "Mist-step footwork is the Han martial tradition.",
+      "Venue of the wedding and wedding night."
+    ]
+  },
+  {
+    "id": "place-white-crane-rest-stop",
+    "name": "White Crane Rest Stop",
+    "type": "waystation",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "Neutral former imperial courier waystation between the Baek and Han lands, used for clan gatherings.",
+    "details": "Timber buildings around a stone courtyard with clan banners at equal height, a central hall, a narrow plum-lined garden and an open-sided garden pavilion. Here Eon and Seo-yeon meet at 6, 12 and 16; at 16 she sleeps on his lap in the garden pavilion until dawn.",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": [
+      "Permanent betrothal signed here at 16."
+    ]
+  },
+  {
+    "id": "place-eastern-slope-pavilion-baek-clan",
+    "name": "Eastern-slope pavilion (Baek clan)",
+    "type": "landmark",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "Small open pavilion on the eastern slope of the Baek compound, facing the valley.",
+    "details": "Four posts, a low dark-tiled roof and a wide wooden platform. On the second night of the Han visit (age 10) Seo-yeon talks with Eon here until late and falls asleep in his lap; the date is later stitched into her ribbon.",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-han-eastern-ferry-house-storage-pavilion",
+    "name": "Storage pavilion behind the eastern ferry house",
+    "type": "landmark",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "Rarely used old storage pavilion in the Han holdings.",
+    "details": "Where Eon knocks out three guards, raises a barrier, opens all of Seo-yeon’s meridians and gives her the communication thread.",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": []
+  },
+  {
+    "id": "place-cracked-marker-stone-upper-ferry-path",
+    "name": "Cracked marker stone (upper ferry path)",
+    "type": "landmark",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "Old stone marker with a frost-split top where the upper ferry path bends away from the river.",
+    "details": "Eon leaves secret gifts under the flat rock on its eastern side: the elixir, corrected forms and hairpin; the birthday brushes and dated ribbon; the five mythical herbs; the silk cord.",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": []
   }
 ]

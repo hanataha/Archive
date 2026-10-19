@@ -1,5 +1,12 @@
 # Current totals
-- Sagas: 53 · Characters: 156 · Places: 407 (`data/meta.json`)
+- Sagas: 54 · Characters: 157 · Places: 413 (`data/meta.json`)
+
+## Saga 54 added (2026-10-19)
+- `saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world`: “Eon Reborn as Major Family’s First Son in Murim World” (79ff3a26, 27 beats, marker `New`). Slow-burn Murim betrothal romance; Eon is reborn as first son of the Baek clan and betrothed at 6 to Han Seo-yeon.
+- Screened turn by turn before adding: sexual content only in beats 25–27 (wedding kiss, wedding night, morning after). Both are 18 and married, it is consensual and initiated by her, and neither is a student or a family member. Beats 1–24 (ages 0–18) are non-sexual. Families appear only in non-sexual roles.
+- Characters (+1): `char-han-seo-yeon` (Childhood Fiancée → Wife).
+- Places (+6): Azure Dragon Pavilion (Mount Cheongryong), Han clan river holdings, White Crane Rest Stop, eastern-slope pavilion, eastern ferry-house storage pavilion, cracked marker stone (upper ferry path).
+- Added `transcripts/79ff3a26.md`, `extracts/79ff3a26.{md,json}`, `extracts/_index.json` entry; `data.js` regenerated from `data/*.json`.
 
 ## Saga 53 added (2026-10-11) — profile-only reframe
 - `saga-53-eon-s-tokyo-lodging-aoi-rin` — “Eon’s Tokyo Lodging (Aoi & Rin)”, marker `Profiles`, `profileOnly: true`: character profiles only, reimagined setting; no transcript, no URL, no beats from any chat.
