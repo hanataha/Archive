@@ -5358,5 +5358,37 @@
       "char-han-seo-yeon"
     ],
     "notableFacts": []
+  },
+  {
+    "id": "place-baek-married-quarters",
+    "name": "Married quarters (Baek compound)",
+    "type": "residence",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "Small residence set aside for the main line’s married couple at the Baek compound.",
+    "details": "Seo-yeon bars the doors and seals the thresholds with a sound-dampening qi barrier on arrival; the couple’s home after the wedding.",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": [
+      "Where Eon gives her the dual-cultivation technique."
+    ]
+  },
+  {
+    "id": "place-heavenly-garden",
+    "name": "Heavenly Garden (pocket world)",
+    "type": "realm",
+    "sagaIds": [
+      "saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world"
+    ],
+    "summary": "A private small world created by Seo-yeon after she becomes immortal, only for her and Eon.",
+    "details": "Pale wood residence, night-blooming flowers that need no water, a stone courtyard and a sky held at soft dusk. It has no flowing water, and time runs at her will: three years inside equal one week outside.",
+    "relatedCharacterIds": [
+      "char-han-seo-yeon"
+    ],
+    "notableFacts": [
+      "Named ‘heaven’ in her own sense."
+    ]
   }
 ]

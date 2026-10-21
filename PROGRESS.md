@@ -1,5 +1,9 @@
 # Current totals
-- Sagas: 54 · Characters: 157 · Places: 413 (`data/meta.json`)
+- Sagas: 54 · Characters: 157 · Places: 415 (`data/meta.json`)
+
+## Saga 54 updated (2026-10-21)
+- Transcript now covers 74 turns. Beats 28–74 were added (non-graphic summaries) after a turn-by-turn screen: PASS. Only the married adult couple is involved and the content is consensual; no family, students or others are sexual. Turns 28–45, 48 and 64–72 are image requests.
+- Places (+2): Baek married quarters, Heavenly Garden (pocket world). Han Seo-yeon's page now covers the transcendent and immortal arc.
 
 ## Saga 54 added (2026-10-19)
 - `saga-54-eon-reborn-as-major-family-s-first-son-in-murim-world`: “Eon Reborn as Major Family’s First Son in Murim World” (79ff3a26, 27 beats, marker `New`). Slow-burn Murim betrothal romance; Eon is reborn as first son of the Baek clan and betrothed at 6 to Han Seo-yeon.
