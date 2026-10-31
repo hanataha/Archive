@@ -99,3 +99,4 @@ Lirael Kanto began as a sweet melodic voice inside Eon’s mind when he was eigh
 - `wiki/app.js` group UI
 - `wiki/PROGRESS.md` (this file)
 - `wiki_fandom.zip` ready for parent Desktop copy
+- `saga-55-eon-reborn-as-first-son-of-a-japanese-conglomerate` (a58ab89d): adapted version; Mei is an adult when first met.
